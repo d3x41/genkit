@@ -1,4 +1,4 @@
-import { OpenAI } from '@langchain/community';
+import { OpenAI } from '@langchain/community/llms/openai.js';
 
 async function testLangChain() {
   const model = new OpenAI({ openAIApiKey: 'your-api-key' });
