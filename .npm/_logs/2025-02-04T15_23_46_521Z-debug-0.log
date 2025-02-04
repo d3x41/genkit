@@ -1469,3 +1469,13 @@
 1350 silly tarball no local data for ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz. Extracting by manifest.
 1351 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 709ms
 1352 silly audit report {}
+1353 http fetch GET 200 https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz 866ms (cache miss)
+1354 http fetch GET 200 https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz 933ms (cache miss)
+1355 http fetch GET 200 https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz 939ms (cache miss)
+1356 http fetch GET 200 https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz 949ms (cache miss)
+1357 http fetch GET 200 https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz 988ms (cache miss)
+1358 http fetch GET 200 https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 1031ms (cache miss)
+1359 http fetch GET 200 https://registry.npmjs.org/simple-wcswidth/-/simple-wcswidth-1.0.1.tgz 1050ms (cache miss)
+1360 http fetch GET 200 https://registry.npmjs.org/console-table-printer/-/console-table-printer-2.12.1.tgz 1154ms (cache miss)
+1361 http fetch GET 200 https://registry.npmjs.org/@langchain/openai/-/openai-0.4.2.tgz 1394ms (cache miss)
+1362 http fetch GET 200 https://registry.npmjs.org/langsmith/-/langsmith-0.3.4.tgz 1820ms (cache miss)
