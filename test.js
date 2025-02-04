@@ -1,4 +1,4 @@
-const { OpenAI } = require('@langchain/community/llms/openai');
+const { OpenAI } = require('@langchain/community/llms');
 
 async function testLangChain() {
   const model = new OpenAI({ openAIApiKey: 'your-api-key' });
