@@ -13,3 +13,4 @@
 12 silly idealTree buildDeps
 13 silly fetch manifest @langchain/community@0.3.24
 14 silly packumentCache full:https://registry.npmjs.org/@langchain%2fcommunity cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/npm 175ms
