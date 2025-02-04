@@ -330,3 +330,47 @@
 329 silly packumentCache full:https://registry.npmjs.org/@gomomento%2fsdk-core set size:undefined disposed:false
 330 silly fetch manifest @google-ai/generativelanguage@*
 331 silly packumentCache full:https://registry.npmjs.org/@google-ai%2fgenerativelanguage cache-miss
+332 http fetch GET 200 https://registry.npmjs.org/@google-ai%2fgenerativelanguage 355ms (cache miss)
+333 silly packumentCache full:https://registry.npmjs.org/@google-ai%2fgenerativelanguage set size:undefined disposed:false
+334 silly fetch manifest @google-cloud/storage@^6.10.1 || ^7.7.0
+335 silly packumentCache full:https://registry.npmjs.org/@google-cloud%2fstorage cache-miss
+336 http fetch GET 200 https://registry.npmjs.org/@google-cloud%2fstorage 64ms (cache miss)
+337 silly packumentCache full:https://registry.npmjs.org/@google-cloud%2fstorage set size:undefined disposed:false
+338 silly fetch manifest @gradientai/nodejs-sdk@^1.2.0
+339 silly packumentCache full:https://registry.npmjs.org/@gradientai%2fnodejs-sdk cache-miss
+340 http fetch GET 200 https://registry.npmjs.org/@gradientai%2fnodejs-sdk 313ms (cache miss)
+341 silly packumentCache full:https://registry.npmjs.org/@gradientai%2fnodejs-sdk set size:undefined disposed:false
+342 silly fetch manifest @huggingface/inference@^2.6.4
+343 silly packumentCache full:https://registry.npmjs.org/@huggingface%2finference cache-miss
+344 http fetch GET 200 https://registry.npmjs.org/@huggingface%2finference 395ms (cache miss)
+345 silly packumentCache full:https://registry.npmjs.org/@huggingface%2finference set size:undefined disposed:false
+346 silly fetch manifest @huggingface/transformers@^3.2.3
+347 silly packumentCache full:https://registry.npmjs.org/@huggingface%2ftransformers cache-miss
+348 http fetch GET 200 https://registry.npmjs.org/@huggingface%2ftransformers 122ms (cache miss)
+349 silly packumentCache full:https://registry.npmjs.org/@huggingface%2ftransformers set size:undefined disposed:false
+350 silly fetch manifest @ibm-cloud/watsonx-ai@*
+351 silly packumentCache full:https://registry.npmjs.org/@ibm-cloud%2fwatsonx-ai cache-miss
+352 http fetch GET 200 https://registry.npmjs.org/@ibm-cloud%2fwatsonx-ai 54ms (cache miss)
+353 silly packumentCache full:https://registry.npmjs.org/@ibm-cloud%2fwatsonx-ai set size:undefined disposed:false
+354 silly fetch manifest @lancedb/lancedb@^0.12.0
+355 silly packumentCache full:https://registry.npmjs.org/@lancedb%2flancedb cache-miss
+356 http fetch GET 200 https://registry.npmjs.org/@lancedb%2flancedb 515ms (cache miss)
+357 silly packumentCache full:https://registry.npmjs.org/@lancedb%2flancedb set size:undefined disposed:false
+358 silly fetch manifest apache-arrow@>=13.0.0 <=17.0.0
+359 silly packumentCache full:https://registry.npmjs.org/apache-arrow cache-miss
+360 http fetch GET 200 https://registry.npmjs.org/apache-arrow 60ms (cache miss)
+361 silly packumentCache full:https://registry.npmjs.org/apache-arrow set size:undefined disposed:false
+362 silly fetch manifest @layerup/layerup-security@^1.5.12
+363 silly packumentCache full:https://registry.npmjs.org/@layerup%2flayerup-security cache-miss
+364 http fetch GET 200 https://registry.npmjs.org/@layerup%2flayerup-security 419ms (cache miss)
+365 silly packumentCache full:https://registry.npmjs.org/@layerup%2flayerup-security set size:undefined disposed:false
+366 silly fetch manifest @libsql/client@^0.14.0
+367 silly packumentCache full:https://registry.npmjs.org/@libsql%2fclient cache-miss
+368 http fetch GET 200 https://registry.npmjs.org/@libsql%2fclient 54ms (cache miss)
+369 silly packumentCache full:https://registry.npmjs.org/@libsql%2fclient set size:undefined disposed:false
+370 silly fetch manifest @mendable/firecrawl-js@^1.4.3
+371 silly packumentCache full:https://registry.npmjs.org/@mendable%2ffirecrawl-js cache-miss
+372 http fetch GET 200 https://registry.npmjs.org/@mendable%2ffirecrawl-js 559ms (cache miss)
+373 silly packumentCache full:https://registry.npmjs.org/@mendable%2ffirecrawl-js set size:undefined disposed:false
+374 silly fetch manifest @mlc-ai/web-llm@*
+375 silly packumentCache full:https://registry.npmjs.org/@mlc-ai%2fweb-llm cache-miss
