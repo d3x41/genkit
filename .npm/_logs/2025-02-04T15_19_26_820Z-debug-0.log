@@ -446,3 +446,31 @@
 445 silly packumentCache full:https://registry.npmjs.org/@supabase%2fsupabase-js set size:undefined disposed:false
 446 silly fetch manifest @tensorflow-models/universal-sentence-encoder@*
 447 silly packumentCache full:https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder cache-miss
+448 http fetch GET 200 https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder 161ms (cache miss)
+449 silly packumentCache full:https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder set size:undefined disposed:false
+450 silly fetch manifest @tensorflow/tfjs-converter@^3.6.0
+451 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-converter cache-miss
+452 http fetch GET 200 https://registry.npmjs.org/@tensorflow%2ftfjs-converter 108ms (cache miss)
+453 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-converter set size:undefined disposed:false
+454 silly fetch manifest @tensorflow/tfjs-core@3.21.0
+455 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-core cache-miss
+456 http fetch GET 200 https://registry.npmjs.org/@tensorflow%2ftfjs-core 127ms (cache miss)
+457 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-core set size:undefined disposed:false
+458 silly fetch manifest @upstash/ratelimit@^1.1.3 || ^2.0.3
+459 silly packumentCache full:https://registry.npmjs.org/@upstash%2fratelimit cache-miss
+460 http fetch GET 200 https://registry.npmjs.org/@upstash%2fratelimit 173ms (cache miss)
+461 silly packumentCache full:https://registry.npmjs.org/@upstash%2fratelimit set size:undefined disposed:false
+462 silly fetch manifest @upstash/redis@^1.34.3
+463 silly packumentCache full:https://registry.npmjs.org/@upstash%2fredis cache-miss
+464 http fetch GET 200 https://registry.npmjs.org/@upstash%2fredis 149ms (cache miss)
+465 silly packumentCache full:https://registry.npmjs.org/@upstash%2fredis set size:undefined disposed:false
+466 silly fetch manifest @upstash/vector@^1.1.1
+467 silly packumentCache full:https://registry.npmjs.org/@upstash%2fvector cache-miss
+468 http fetch GET 200 https://registry.npmjs.org/@upstash%2fvector 408ms (cache miss)
+469 silly packumentCache full:https://registry.npmjs.org/@upstash%2fvector set size:undefined disposed:false
+470 silly fetch manifest @vercel/kv@*
+471 silly packumentCache full:https://registry.npmjs.org/@vercel%2fkv cache-miss
+472 http fetch GET 200 https://registry.npmjs.org/@vercel%2fkv 115ms (cache miss)
+473 silly packumentCache full:https://registry.npmjs.org/@vercel%2fkv set size:undefined disposed:false
+474 silly fetch manifest @vercel/postgres@*
+475 silly packumentCache full:https://registry.npmjs.org/@vercel%2fpostgres cache-miss
