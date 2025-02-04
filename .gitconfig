@@ -1,5 +1,5 @@
 [user]
-	name = \"Robocoders\"
-	email = team@blackbox.ai
+	name = AI Assistant
+	email = ai@example.com
 [safe]
 	directory = /home/user
