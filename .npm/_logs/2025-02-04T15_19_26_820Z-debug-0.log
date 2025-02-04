@@ -490,3 +490,83 @@
 489 silly packumentCache full:https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node set size:undefined disposed:false
 490 silly fetch manifest apify-client@^2.7.1
 491 silly packumentCache full:https://registry.npmjs.org/apify-client cache-miss
+492 http fetch GET 200 https://registry.npmjs.org/apify-client 317ms (cache miss)
+493 silly packumentCache full:https://registry.npmjs.org/apify-client set size:undefined disposed:false
+494 silly fetch manifest assemblyai@^4.6.0
+495 silly packumentCache full:https://registry.npmjs.org/assemblyai cache-miss
+496 http fetch GET 200 https://registry.npmjs.org/assemblyai 153ms (cache miss)
+497 silly packumentCache full:https://registry.npmjs.org/assemblyai set size:undefined disposed:false
+498 silly fetch manifest cassandra-driver@^4.7.2
+499 silly packumentCache full:https://registry.npmjs.org/cassandra-driver cache-miss
+500 http fetch GET 200 https://registry.npmjs.org/cassandra-driver 152ms (cache miss)
+501 silly packumentCache full:https://registry.npmjs.org/cassandra-driver set size:undefined disposed:false
+502 silly fetch manifest cborg@^4.1.1
+503 silly packumentCache full:https://registry.npmjs.org/cborg cache-miss
+504 http fetch GET 200 https://registry.npmjs.org/cborg 91ms (cache miss)
+505 silly packumentCache full:https://registry.npmjs.org/cborg set size:undefined disposed:false
+506 silly fetch manifest chromadb@*
+507 silly packumentCache full:https://registry.npmjs.org/chromadb cache-miss
+508 http fetch GET 200 https://registry.npmjs.org/chromadb 35ms (cache miss)
+509 silly packumentCache full:https://registry.npmjs.org/chromadb set size:undefined disposed:false
+510 silly fetch manifest @google/generative-ai@^0.1.1
+511 silly packumentCache full:https://registry.npmjs.org/@google%2fgenerative-ai cache-miss
+512 http fetch GET 200 https://registry.npmjs.org/@google%2fgenerative-ai 551ms (cache miss)
+513 silly packumentCache full:https://registry.npmjs.org/@google%2fgenerative-ai set size:undefined disposed:false
+514 silly fetch manifest cohere-ai@^5.0.0 || ^6.0.0 || ^7.0.0
+515 silly packumentCache full:https://registry.npmjs.org/cohere-ai cache-miss
+516 http fetch GET 200 https://registry.npmjs.org/cohere-ai 190ms (cache miss)
+517 silly packumentCache full:https://registry.npmjs.org/cohere-ai set size:undefined disposed:false
+518 silly fetch manifest voyageai@^0.0.3-1
+519 silly packumentCache full:https://registry.npmjs.org/voyageai cache-miss
+520 http fetch GET 200 https://registry.npmjs.org/voyageai 160ms (cache miss)
+521 silly packumentCache full:https://registry.npmjs.org/voyageai set size:undefined disposed:false
+522 silly fetch manifest closevector-common@0.1.3
+523 silly packumentCache full:https://registry.npmjs.org/closevector-common cache-miss
+524 http fetch GET 200 https://registry.npmjs.org/closevector-common 149ms (cache miss)
+525 silly packumentCache full:https://registry.npmjs.org/closevector-common set size:undefined disposed:false
+526 silly fetch manifest closevector-node@0.1.6
+527 silly packumentCache full:https://registry.npmjs.org/closevector-node cache-miss
+528 http fetch GET 200 https://registry.npmjs.org/closevector-node 146ms (cache miss)
+529 silly packumentCache full:https://registry.npmjs.org/closevector-node set size:undefined disposed:false
+530 silly fetch manifest closevector-web@0.1.6
+531 silly packumentCache full:https://registry.npmjs.org/closevector-web cache-miss
+532 http fetch GET 200 https://registry.npmjs.org/closevector-web 280ms (cache miss)
+533 silly packumentCache full:https://registry.npmjs.org/closevector-web set size:undefined disposed:false
+534 silly fetch manifest convex@^1.3.1
+535 silly packumentCache full:https://registry.npmjs.org/convex cache-miss
+536 http fetch GET 200 https://registry.npmjs.org/convex 217ms (cache miss)
+537 silly packumentCache full:https://registry.npmjs.org/convex set size:undefined disposed:false
+538 silly fetch manifest @auth0/auth0-react@^2.0.1
+539 silly packumentCache full:https://registry.npmjs.org/@auth0%2fauth0-react cache-miss
+540 http fetch GET 200 https://registry.npmjs.org/@auth0%2fauth0-react 104ms (cache miss)
+541 silly packumentCache full:https://registry.npmjs.org/@auth0%2fauth0-react set size:undefined disposed:false
+542 silly fetch manifest react@^16.11.0 || ^17 || ^18 || ^19
+543 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+544 http fetch GET 200 https://registry.npmjs.org/react 122ms (cache miss)
+545 silly packumentCache full:https://registry.npmjs.org/react set size:undefined disposed:false
+546 silly fetch manifest react-dom@^16.11.0 || ^17 || ^18 || ^19
+547 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+548 http fetch GET 200 https://registry.npmjs.org/react-dom 127ms (cache miss)
+549 silly packumentCache full:https://registry.npmjs.org/react-dom set size:undefined disposed:false
+550 silly fetch manifest @clerk/clerk-react@^4.12.8 || ^5.0.0
+551 silly packumentCache full:https://registry.npmjs.org/@clerk%2fclerk-react cache-miss
+552 http fetch GET 200 https://registry.npmjs.org/@clerk%2fclerk-react 159ms (cache miss)
+553 silly packumentCache full:https://registry.npmjs.org/@clerk%2fclerk-react set size:undefined disposed:false
+554 silly fetch manifest crypto-js@^4.2.0
+555 silly packumentCache full:https://registry.npmjs.org/crypto-js cache-miss
+556 http fetch GET 200 https://registry.npmjs.org/crypto-js 32ms (cache miss)
+557 silly packumentCache full:https://registry.npmjs.org/crypto-js set size:undefined disposed:false
+558 silly fetch manifest d3-dsv@^2.0.0
+559 silly packumentCache full:https://registry.npmjs.org/d3-dsv cache-miss
+560 http fetch GET 200 https://registry.npmjs.org/d3-dsv 44ms (cache miss)
+561 silly packumentCache full:https://registry.npmjs.org/d3-dsv set size:undefined disposed:false
+562 silly fetch manifest discord.js@^14.14.1
+563 silly packumentCache full:https://registry.npmjs.org/discord.js cache-miss
+564 http fetch GET 200 https://registry.npmjs.org/discord.js 125ms (cache miss)
+565 silly packumentCache full:https://registry.npmjs.org/discord.js set size:undefined disposed:false
+566 silly fetch manifest dria@^0.0.3
+567 silly packumentCache full:https://registry.npmjs.org/dria cache-miss
+568 http fetch GET 200 https://registry.npmjs.org/dria 81ms (cache miss)
+569 silly packumentCache full:https://registry.npmjs.org/dria set size:undefined disposed:false
+570 silly fetch manifest duck-duck-scrape@^2.2.5
+571 silly packumentCache full:https://registry.npmjs.org/duck-duck-scrape cache-miss
