@@ -162,3 +162,127 @@
 161 silly packumentCache full:https://registry.npmjs.org/@langchain%2fdeepseek set size:undefined disposed:false
 162 silly fetch manifest @langchain/google-genai@*
 163 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgoogle-genai cache-miss
+164 http fetch GET 200 https://registry.npmjs.org/@langchain%2fgoogle-genai 50ms (cache miss)
+165 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgoogle-genai set size:undefined disposed:false
+166 silly fetch manifest @langchain/google-vertexai@*
+167 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgoogle-vertexai cache-miss
+168 http fetch GET 200 https://registry.npmjs.org/@langchain%2fgoogle-vertexai 53ms (cache miss)
+169 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgoogle-vertexai set size:undefined disposed:false
+170 silly fetch manifest @langchain/google-vertexai-web@*
+171 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgoogle-vertexai-web cache-miss
+172 http fetch GET 200 https://registry.npmjs.org/@langchain%2fgoogle-vertexai-web 117ms (cache miss)
+173 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgoogle-vertexai-web set size:undefined disposed:false
+174 silly fetch manifest @langchain/groq@*
+175 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgroq cache-miss
+176 http fetch GET 200 https://registry.npmjs.org/@langchain%2fgroq 53ms (cache miss)
+177 silly packumentCache full:https://registry.npmjs.org/@langchain%2fgroq set size:undefined disposed:false
+178 silly fetch manifest @langchain/mistralai@*
+179 silly packumentCache full:https://registry.npmjs.org/@langchain%2fmistralai cache-miss
+180 http fetch GET 200 https://registry.npmjs.org/@langchain%2fmistralai 396ms (cache miss)
+181 silly packumentCache full:https://registry.npmjs.org/@langchain%2fmistralai set size:undefined disposed:false
+182 silly fetch manifest @langchain/ollama@*
+183 silly packumentCache full:https://registry.npmjs.org/@langchain%2follama cache-miss
+184 http fetch GET 200 https://registry.npmjs.org/@langchain%2follama 143ms (cache miss)
+185 silly packumentCache full:https://registry.npmjs.org/@langchain%2follama set size:undefined disposed:false
+186 silly fetch manifest axios@*
+187 silly packumentCache full:https://registry.npmjs.org/axios cache-miss
+188 http fetch GET 200 https://registry.npmjs.org/axios 45ms (cache miss)
+189 silly packumentCache full:https://registry.npmjs.org/axios set size:undefined disposed:false
+190 silly fetch manifest cheerio@*
+191 silly packumentCache full:https://registry.npmjs.org/cheerio cache-miss
+192 http fetch GET 200 https://registry.npmjs.org/cheerio 37ms (cache miss)
+193 silly packumentCache full:https://registry.npmjs.org/cheerio set size:undefined disposed:false
+194 silly fetch manifest handlebars@^4.7.8
+195 silly packumentCache full:https://registry.npmjs.org/handlebars cache-miss
+196 http fetch GET 200 https://registry.npmjs.org/handlebars 38ms (cache miss)
+197 silly packumentCache full:https://registry.npmjs.org/handlebars set size:undefined disposed:false
+198 silly fetch manifest peggy@^3.0.2
+199 silly packumentCache full:https://registry.npmjs.org/peggy cache-miss
+200 http fetch GET 200 https://registry.npmjs.org/peggy 42ms (cache miss)
+201 silly packumentCache full:https://registry.npmjs.org/peggy set size:undefined disposed:false
+202 silly fetch manifest typeorm@*
+203 silly packumentCache full:https://registry.npmjs.org/typeorm cache-miss
+204 http fetch GET 200 https://registry.npmjs.org/typeorm 110ms (cache miss)
+205 silly packumentCache full:https://registry.npmjs.org/typeorm set size:undefined disposed:false
+206 silly fetch manifest @google-cloud/spanner@^5.18.0
+207 silly packumentCache full:https://registry.npmjs.org/@google-cloud%2fspanner cache-miss
+208 http fetch GET 200 https://registry.npmjs.org/@google-cloud%2fspanner 58ms (cache miss)
+209 silly packumentCache full:https://registry.npmjs.org/@google-cloud%2fspanner set size:undefined disposed:false
+210 silly fetch manifest @sap/hana-client@^2.12.25
+211 silly packumentCache full:https://registry.npmjs.org/@sap%2fhana-client cache-miss
+212 http fetch GET 200 https://registry.npmjs.org/@sap%2fhana-client 70ms (cache miss)
+213 silly packumentCache full:https://registry.npmjs.org/@sap%2fhana-client set size:undefined disposed:false
+214 silly fetch manifest better-sqlite3@^7.1.2 || ^8.0.0 || ^9.0.0
+215 silly packumentCache full:https://registry.npmjs.org/better-sqlite3 cache-miss
+216 http fetch GET 200 https://registry.npmjs.org/better-sqlite3 45ms (cache miss)
+217 silly packumentCache full:https://registry.npmjs.org/better-sqlite3 set size:undefined disposed:false
+218 silly fetch manifest hdb-pool@^0.1.6
+219 silly packumentCache full:https://registry.npmjs.org/hdb-pool cache-miss
+220 http fetch GET 200 https://registry.npmjs.org/hdb-pool 36ms (cache miss)
+221 silly packumentCache full:https://registry.npmjs.org/hdb-pool set size:undefined disposed:false
+222 silly fetch manifest ioredis@^5.0.4
+223 silly packumentCache full:https://registry.npmjs.org/ioredis cache-miss
+224 http fetch GET 200 https://registry.npmjs.org/ioredis 47ms (cache miss)
+225 silly packumentCache full:https://registry.npmjs.org/ioredis set size:undefined disposed:false
+226 silly fetch manifest mongodb@^5.8.0
+227 silly packumentCache full:https://registry.npmjs.org/mongodb cache-miss
+228 http fetch GET 200 https://registry.npmjs.org/mongodb 76ms (cache miss)
+229 silly packumentCache full:https://registry.npmjs.org/mongodb set size:undefined disposed:false
+230 silly fetch manifest @aws-sdk/credential-providers@^3.188.0
+231 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fcredential-providers cache-miss
+232 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fcredential-providers 77ms (cache miss)
+233 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fcredential-providers set size:undefined disposed:false
+234 silly fetch manifest @mongodb-js/zstd@^1.0.0
+235 silly packumentCache full:https://registry.npmjs.org/@mongodb-js%2fzstd cache-miss
+236 http fetch GET 200 https://registry.npmjs.org/@mongodb-js%2fzstd 55ms (cache miss)
+237 silly packumentCache full:https://registry.npmjs.org/@mongodb-js%2fzstd set size:undefined disposed:false
+238 silly fetch manifest kerberos@^1.0.0 || ^2.0.0
+239 silly packumentCache full:https://registry.npmjs.org/kerberos cache-miss
+240 http fetch GET 200 https://registry.npmjs.org/kerberos 38ms (cache miss)
+241 silly packumentCache full:https://registry.npmjs.org/kerberos set size:undefined disposed:false
+242 silly fetch manifest mongodb-client-encryption@>=2.3.0 <3
+243 silly packumentCache full:https://registry.npmjs.org/mongodb-client-encryption cache-miss
+244 http fetch GET 200 https://registry.npmjs.org/mongodb-client-encryption 37ms (cache miss)
+245 silly packumentCache full:https://registry.npmjs.org/mongodb-client-encryption set size:undefined disposed:false
+246 silly fetch manifest gcp-metadata@^5.2.0
+247 silly packumentCache full:https://registry.npmjs.org/gcp-metadata cache-miss
+248 http fetch GET 200 https://registry.npmjs.org/gcp-metadata 41ms (cache miss)
+249 silly packumentCache full:https://registry.npmjs.org/gcp-metadata set size:undefined disposed:false
+250 silly fetch manifest snappy@^7.2.2
+251 silly packumentCache full:https://registry.npmjs.org/snappy cache-miss
+252 http fetch GET 200 https://registry.npmjs.org/snappy 35ms (cache miss)
+253 silly packumentCache full:https://registry.npmjs.org/snappy set size:undefined disposed:false
+254 silly fetch manifest mssql@^9.1.1 || ^10.0.1
+255 silly packumentCache full:https://registry.npmjs.org/mssql cache-miss
+256 http fetch GET 200 https://registry.npmjs.org/mssql 97ms (cache miss)
+257 silly packumentCache full:https://registry.npmjs.org/mssql set size:undefined disposed:false
+258 silly fetch manifest mysql2@^2.2.5 || ^3.0.1
+259 silly packumentCache full:https://registry.npmjs.org/mysql2 cache-miss
+260 http fetch GET 200 https://registry.npmjs.org/mysql2 50ms (cache miss)
+261 silly packumentCache full:https://registry.npmjs.org/mysql2 set size:undefined disposed:false
+262 silly fetch manifest oracledb@^6.3.0
+263 silly packumentCache full:https://registry.npmjs.org/oracledb cache-miss
+264 http fetch GET 200 https://registry.npmjs.org/oracledb 41ms (cache miss)
+265 silly packumentCache full:https://registry.npmjs.org/oracledb set size:undefined disposed:false
+266 silly fetch manifest pg@^8.5.1
+267 silly packumentCache full:https://registry.npmjs.org/pg cache-miss
+268 http fetch GET 200 https://registry.npmjs.org/pg 53ms (cache miss)
+269 silly packumentCache full:https://registry.npmjs.org/pg set size:undefined disposed:false
+270 silly fetch manifest pg-native@>=3.0.1
+271 silly packumentCache full:https://registry.npmjs.org/pg-native cache-miss
+272 http fetch GET 200 https://registry.npmjs.org/pg-native 38ms (cache miss)
+273 silly packumentCache full:https://registry.npmjs.org/pg-native set size:undefined disposed:false
+274 silly fetch manifest pg-query-stream@^4.0.0
+275 silly packumentCache full:https://registry.npmjs.org/pg-query-stream cache-miss
+276 http fetch GET 200 https://registry.npmjs.org/pg-query-stream 36ms (cache miss)
+277 silly packumentCache full:https://registry.npmjs.org/pg-query-stream set size:undefined disposed:false
+278 silly fetch manifest redis@^3.1.1 || ^4.0.0
+279 silly packumentCache full:https://registry.npmjs.org/redis cache-miss
+280 http fetch GET 200 https://registry.npmjs.org/redis 38ms (cache miss)
+281 silly packumentCache full:https://registry.npmjs.org/redis set size:undefined disposed:false
+282 silly fetch manifest sql.js@^1.4.0
+283 silly packumentCache full:https://registry.npmjs.org/sql.js cache-miss
+284 http fetch GET 200 https://registry.npmjs.org/sql.js 32ms (cache miss)
+285 silly packumentCache full:https://registry.npmjs.org/sql.js set size:undefined disposed:false
+286 silly fetch manifest sqlite3@^5.0.3
+287 silly packumentCache full:https://registry.npmjs.org/sqlite3 cache-miss
