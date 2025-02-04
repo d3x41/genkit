@@ -682,3 +682,203 @@
 681 silly fetch manifest puppeteer@*
 682 silly packumentCache full:https://registry.npmjs.org/puppeteer cache-miss
 683 http fetch GET 200 https://registry.npmjs.org/puppeteer 18ms (cache hit)
+684 silly packumentCache full:https://registry.npmjs.org/puppeteer set size:3739038 disposed:false
+685 silly fetch manifest pyodide@>=0.24.1 <0.27.0
+686 silly packumentCache full:https://registry.npmjs.org/pyodide cache-miss
+687 http fetch GET 200 https://registry.npmjs.org/pyodide 10ms (cache hit)
+688 silly packumentCache full:https://registry.npmjs.org/pyodide set size:191687 disposed:false
+689 silly fetch manifest replicate@^0.29.4
+690 silly packumentCache full:https://registry.npmjs.org/replicate cache-miss
+691 http fetch GET 200 https://registry.npmjs.org/replicate 4ms (cache hit)
+692 silly packumentCache full:https://registry.npmjs.org/replicate set size:202385 disposed:false
+693 silly fetch manifest sonix-speech-recognition@^2.1.1
+694 silly packumentCache full:https://registry.npmjs.org/sonix-speech-recognition cache-miss
+695 http fetch GET 200 https://registry.npmjs.org/sonix-speech-recognition 4ms (cache hit)
+696 silly packumentCache full:https://registry.npmjs.org/sonix-speech-recognition set size:15897 disposed:false
+697 silly fetch manifest srt-parser-2@^1.2.3
+698 silly packumentCache full:https://registry.npmjs.org/srt-parser-2 cache-miss
+699 http fetch GET 200 https://registry.npmjs.org/srt-parser-2 4ms (cache hit)
+700 silly packumentCache full:https://registry.npmjs.org/srt-parser-2 set size:54876 disposed:false
+701 silly fetch manifest typesense@^1.5.3
+702 silly packumentCache full:https://registry.npmjs.org/typesense cache-miss
+703 http fetch GET 200 https://registry.npmjs.org/typesense 7ms (cache hit)
+704 silly packumentCache full:https://registry.npmjs.org/typesense set size:876443 disposed:false
+705 silly fetch manifest @babel/runtime@^7.23.2
+706 silly packumentCache full:https://registry.npmjs.org/@babel%2fruntime cache-miss
+707 http fetch GET 200 https://registry.npmjs.org/@babel%2fruntime 12ms (cache hit)
+708 silly packumentCache full:https://registry.npmjs.org/@babel%2fruntime set size:2810959 disposed:false
+709 silly fetch manifest usearch@^1.1.1
+710 silly packumentCache full:https://registry.npmjs.org/usearch cache-miss
+711 http fetch GET 200 https://registry.npmjs.org/usearch 5ms (cache hit)
+712 silly packumentCache full:https://registry.npmjs.org/usearch set size:296418 disposed:false
+713 silly fetch manifest voy-search@0.6.2
+714 silly packumentCache full:https://registry.npmjs.org/voy-search cache-miss
+715 http fetch GET 200 https://registry.npmjs.org/voy-search 6ms (cache hit)
+716 silly packumentCache full:https://registry.npmjs.org/voy-search set size:36029 disposed:false
+717 silly fetch manifest weaviate-ts-client@*
+718 silly packumentCache full:https://registry.npmjs.org/weaviate-ts-client cache-miss
+719 http fetch GET 200 https://registry.npmjs.org/weaviate-ts-client 4ms (cache hit)
+720 silly packumentCache full:https://registry.npmjs.org/weaviate-ts-client set size:77199 disposed:false
+721 silly fetch manifest web-auth-library@^1.0.3
+722 silly packumentCache full:https://registry.npmjs.org/web-auth-library cache-miss
+723 http fetch GET 200 https://registry.npmjs.org/web-auth-library 3ms (cache hit)
+724 silly packumentCache full:https://registry.npmjs.org/web-auth-library set size:47452 disposed:false
+725 silly fetch manifest word-extractor@*
+726 silly packumentCache full:https://registry.npmjs.org/word-extractor cache-miss
+727 http fetch GET 200 https://registry.npmjs.org/word-extractor 3ms (cache hit)
+728 silly packumentCache full:https://registry.npmjs.org/word-extractor set size:35784 disposed:false
+729 silly fetch manifest youtubei.js@*
+730 silly packumentCache full:https://registry.npmjs.org/youtubei.js cache-miss
+731 http fetch GET 200 https://registry.npmjs.org/youtubei.js 5ms (cache hit)
+732 silly packumentCache full:https://registry.npmjs.org/youtubei.js set size:526298 disposed:false
+733 silly placeDep ROOT @langchain/community@0.3.28 OK for:  want: *
+734 silly placeDep ROOT @browserbasehq/stagehand@1.11.0 OK for: @langchain/community@0.3.28 want: ^1.0.0
+735 silly placeDep ROOT zod@3.24.1 OK for: @browserbasehq/stagehand@1.11.0 want: ^3.23.8
+736 silly placeDep ROOT dotenv@16.4.7 OK for: @browserbasehq/stagehand@1.11.0 want: ^16.4.5
+737 silly placeDep ROOT openai@4.82.0 OK for: @browserbasehq/stagehand@1.11.0 want: ^4.62.1
+738 silly placeDep ROOT deepmerge@4.3.1 OK for: @browserbasehq/stagehand@1.11.0 want: ^4.3.1
+739 silly placeDep ROOT @playwright/test@1.50.1 OK for: @browserbasehq/stagehand@1.11.0 want: ^1.42.1
+740 silly placeDep ROOT @ibm-cloud/watsonx-ai@1.4.0 OK for: @langchain/community@0.3.28 want: *
+741 silly placeDep ROOT @langchain/core@0.3.37 OK for: @langchain/community@0.3.28 want: >=0.2.21 <0.4.0
+742 silly placeDep ROOT ibm-cloud-sdk-core@5.1.2 OK for: @langchain/community@0.3.28 want: *
+743 silly fetch manifest @langchain/openai@>=0.2.0 <0.5.0
+744 silly packumentCache full:https://registry.npmjs.org/@langchain%2fopenai cache-miss
+745 silly fetch manifest binary-extensions@^2.2.0
+746 silly packumentCache full:https://registry.npmjs.org/binary-extensions cache-miss
+747 silly fetch manifest expr-eval@^2.0.2
+748 silly packumentCache full:https://registry.npmjs.org/expr-eval cache-miss
+749 silly fetch manifest flat@^5.0.2
+750 silly packumentCache full:https://registry.npmjs.org/flat cache-miss
+751 silly fetch manifest js-yaml@^4.1.0
+752 silly packumentCache full:https://registry.npmjs.org/js-yaml cache-miss
+753 silly fetch manifest langchain@>=0.2.3 <0.3.0 || >=0.3.4 <0.4.0
+754 silly packumentCache full:https://registry.npmjs.org/langchain cache-miss
+755 silly fetch manifest langsmith@>=0.2.8 <0.4.0
+756 silly packumentCache full:https://registry.npmjs.org/langsmith cache-miss
+757 http fetch GET 200 https://registry.npmjs.org/flat 17ms (cache hit)
+758 silly packumentCache full:https://registry.npmjs.org/flat set size:56541 disposed:false
+759 silly fetch manifest uuid@^10.0.0
+760 silly packumentCache full:https://registry.npmjs.org/uuid cache-miss
+761 http fetch GET 200 https://registry.npmjs.org/@langchain%2fopenai 28ms (cache hit)
+762 silly packumentCache full:https://registry.npmjs.org/@langchain%2fopenai set size:350375 disposed:false
+763 silly fetch manifest zod-to-json-schema@^3.22.5
+764 silly packumentCache full:https://registry.npmjs.org/zod-to-json-schema cache-miss
+765 http fetch GET 200 https://registry.npmjs.org/js-yaml 25ms (cache hit)
+766 silly packumentCache full:https://registry.npmjs.org/js-yaml set size:145975 disposed:false
+767 silly fetch manifest @types/debug@^4.1.12
+768 silly packumentCache full:https://registry.npmjs.org/@types%2fdebug cache-miss
+769 http fetch GET 200 https://registry.npmjs.org/langsmith 30ms (cache hit)
+770 silly packumentCache full:https://registry.npmjs.org/langsmith set size:1261540 disposed:false
+771 silly fetch manifest @types/node@~10.14.19
+772 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+773 http fetch GET 200 https://registry.npmjs.org/expr-eval 45ms (cache hit)
+774 silly packumentCache full:https://registry.npmjs.org/expr-eval set size:54669 disposed:false
+775 silly fetch manifest @types/tough-cookie@^4.0.0
+776 silly packumentCache full:https://registry.npmjs.org/@types%2ftough-cookie cache-miss
+777 http fetch GET 200 https://registry.npmjs.org/binary-extensions 54ms (cache hit)
+778 silly packumentCache full:https://registry.npmjs.org/binary-extensions set size:49673 disposed:false
+779 silly fetch manifest axios@1.7.9
+780 silly packumentCache full:https://registry.npmjs.org/axios cache-hit
+781 silly fetch manifest camelcase@^6.3.0
+782 silly packumentCache full:https://registry.npmjs.org/camelcase cache-miss
+783 http fetch GET 200 https://registry.npmjs.org/langchain 77ms (cache hit)
+784 silly packumentCache full:https://registry.npmjs.org/langchain set size:11550632 disposed:false
+785 silly fetch manifest debug@^4.3.4
+786 silly packumentCache full:https://registry.npmjs.org/debug cache-miss
+787 http fetch GET 200 https://registry.npmjs.org/uuid 246ms (cache hit)
+788 silly packumentCache full:https://registry.npmjs.org/uuid set size:210895 disposed:false
+789 silly fetch manifest extend@3.0.2
+790 silly packumentCache full:https://registry.npmjs.org/extend cache-miss
+791 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 253ms (cache hit)
+792 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:9607824 disposed:false
+793 silly fetch manifest file-type@16.5.4
+794 silly packumentCache full:https://registry.npmjs.org/file-type cache-miss
+795 http fetch GET 200 https://registry.npmjs.org/@types%2ftough-cookie 446ms (cache hit)
+796 silly packumentCache full:https://registry.npmjs.org/@types%2ftough-cookie set size:37943 disposed:false
+797 silly fetch manifest form-data@4.0.0
+798 silly packumentCache full:https://registry.npmjs.org/form-data cache-miss
+799 http fetch GET 200 https://registry.npmjs.org/zod-to-json-schema 470ms (cache hit)
+800 silly packumentCache full:https://registry.npmjs.org/zod-to-json-schema set size:264453 disposed:false
+801 silly fetch manifest isstream@0.1.2
+802 silly packumentCache full:https://registry.npmjs.org/isstream cache-miss
+803 http fetch GET 200 https://registry.npmjs.org/camelcase 449ms (cache hit)
+804 silly packumentCache full:https://registry.npmjs.org/camelcase set size:57059 disposed:false
+805 silly fetch manifest mime-types@2.1.35
+806 silly packumentCache full:https://registry.npmjs.org/mime-types cache-miss
+807 http fetch GET 200 https://registry.npmjs.org/@types%2fdebug 473ms (cache hit)
+808 silly packumentCache full:https://registry.npmjs.org/@types%2fdebug set size:51317 disposed:false
+809 silly fetch manifest retry-axios@^2.6.0
+810 silly packumentCache full:https://registry.npmjs.org/retry-axios cache-miss
+811 http fetch GET 200 https://registry.npmjs.org/debug 263ms (cache hit)
+812 silly packumentCache full:https://registry.npmjs.org/debug set size:191331 disposed:false
+813 silly fetch manifest tough-cookie@^4.1.3
+814 silly packumentCache full:https://registry.npmjs.org/tough-cookie cache-miss
+815 http fetch GET 200 https://registry.npmjs.org/extend 248ms (cache hit)
+816 silly packumentCache full:https://registry.npmjs.org/extend set size:25974 disposed:false
+817 silly fetch manifest @cfworker/json-schema@^4.0.2
+818 silly packumentCache full:https://registry.npmjs.org/@cfworker%2fjson-schema cache-miss
+819 http fetch GET 200 https://registry.npmjs.org/form-data 32ms (cache hit)
+820 silly packumentCache full:https://registry.npmjs.org/form-data set size:120220 disposed:false
+821 silly fetch manifest ansi-styles@^5.0.0
+822 silly packumentCache full:https://registry.npmjs.org/ansi-styles cache-miss
+823 http fetch GET 200 https://registry.npmjs.org/isstream 31ms (cache hit)
+824 silly packumentCache full:https://registry.npmjs.org/isstream set size:9114 disposed:false
+825 silly fetch manifest camelcase@6
+826 silly packumentCache full:https://registry.npmjs.org/camelcase cache-hit
+827 silly fetch manifest decamelize@1.2.0
+828 silly packumentCache full:https://registry.npmjs.org/decamelize cache-miss
+829 http fetch GET 200 https://registry.npmjs.org/mime-types 29ms (cache hit)
+830 silly packumentCache full:https://registry.npmjs.org/mime-types set size:129792 disposed:false
+831 silly fetch manifest js-tiktoken@^1.0.12
+832 silly packumentCache full:https://registry.npmjs.org/js-tiktoken cache-miss
+833 http fetch GET 200 https://registry.npmjs.org/tough-cookie 26ms (cache hit)
+834 silly packumentCache full:https://registry.npmjs.org/tough-cookie set size:120990 disposed:false
+835 silly fetch manifest mustache@^4.2.0
+836 silly packumentCache full:https://registry.npmjs.org/mustache cache-miss
+837 http fetch GET 200 https://registry.npmjs.org/retry-axios 35ms (cache hit)
+838 silly packumentCache full:https://registry.npmjs.org/retry-axios set size:91298 disposed:false
+839 silly fetch manifest p-queue@^6.6.2
+840 silly packumentCache full:https://registry.npmjs.org/p-queue cache-miss
+841 http fetch GET 200 https://registry.npmjs.org/file-type 55ms (cache hit)
+842 silly packumentCache full:https://registry.npmjs.org/file-type set size:493009 disposed:false
+843 silly fetch manifest p-retry@4
+844 silly packumentCache full:https://registry.npmjs.org/p-retry cache-miss
+845 http fetch GET 200 https://registry.npmjs.org/js-tiktoken 31ms (cache hit)
+846 silly packumentCache full:https://registry.npmjs.org/js-tiktoken set size:47235 disposed:false
+847 silly fetch manifest zod-to-json-schema@^3.22.3
+848 silly packumentCache full:https://registry.npmjs.org/zod-to-json-schema cache-hit
+849 silly fetch manifest @langchain/textsplitters@^0.1.0
+850 silly packumentCache full:https://registry.npmjs.org/@langchain%2ftextsplitters cache-miss
+851 http fetch GET 200 https://registry.npmjs.org/@cfworker%2fjson-schema 44ms (cache hit)
+852 silly packumentCache full:https://registry.npmjs.org/@cfworker%2fjson-schema set size:144207 disposed:false
+853 silly fetch manifest @types/node@^18.0.0
+854 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+855 http fetch GET 200 https://registry.npmjs.org/ansi-styles 44ms (cache hit)
+856 silly packumentCache full:https://registry.npmjs.org/ansi-styles set size:66356 disposed:false
+857 silly fetch manifest @anthropic-ai/sdk@^0.27.3
+858 silly packumentCache full:https://registry.npmjs.org/@anthropic-ai%2fsdk cache-miss
+859 http fetch GET 200 https://registry.npmjs.org/decamelize 44ms (cache hit)
+860 silly packumentCache full:https://registry.npmjs.org/decamelize set size:32733 disposed:false
+861 silly fetch manifest @browserbasehq/sdk@^2.0.0
+862 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fsdk cache-hit
+863 silly fetch manifest zod-to-json-schema@^3.23.5
+864 silly packumentCache full:https://registry.npmjs.org/zod-to-json-schema cache-hit
+865 silly fetch manifest playwright@1.50.1
+866 silly packumentCache full:https://registry.npmjs.org/playwright cache-miss
+867 http fetch GET 200 https://registry.npmjs.org/mustache 41ms (cache hit)
+868 silly packumentCache full:https://registry.npmjs.org/mustache set size:166955 disposed:false
+869 silly fetch manifest @types/node@^18.11.18
+870 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+871 http fetch GET 200 https://registry.npmjs.org/p-queue 41ms (cache hit)
+872 silly packumentCache full:https://registry.npmjs.org/p-queue set size:141092 disposed:false
+873 silly fetch manifest @types/node-fetch@^2.6.4
+874 silly packumentCache full:https://registry.npmjs.org/@types%2fnode-fetch cache-miss
+875 http fetch GET 200 https://registry.npmjs.org/p-retry 38ms (cache hit)
+876 silly packumentCache full:https://registry.npmjs.org/p-retry set size:58216 disposed:false
+877 silly fetch manifest abort-controller@^3.0.0
+878 silly packumentCache full:https://registry.npmjs.org/abort-controller cache-miss
+879 http fetch GET 200 https://registry.npmjs.org/@langchain%2ftextsplitters 39ms (cache hit)
+880 silly packumentCache full:https://registry.npmjs.org/@langchain%2ftextsplitters set size:28457 disposed:false
+881 silly fetch manifest agentkeepalive@^4.2.1
+882 silly packumentCache full:https://registry.npmjs.org/agentkeepalive cache-miss
+883 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 57ms (cache hit)
