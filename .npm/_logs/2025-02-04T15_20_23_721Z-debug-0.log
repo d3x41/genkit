@@ -333,3 +333,142 @@
 220 http fetch GET 200 https://registry.npmjs.org/readable-stream/-/readable-stream-4.7.0.tgz 1759ms (cache miss)
 221 http fetch GET 200 https://registry.npmjs.org/@ibm-cloud/watsonx-ai/-/watsonx-ai-1.4.0.tgz 1649ms (cache miss)
 222 http fetch GET 200 https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz 1737ms (cache miss)
+223 http fetch GET 200 https://registry.npmjs.org/@types/node/-/node-10.14.22.tgz 1713ms (cache miss)
+224 http fetch GET 200 https://registry.npmjs.org/@langchain/openai/-/openai-0.3.17.tgz 1750ms (cache miss)
+225 http fetch GET 200 https://registry.npmjs.org/uuid/-/uuid-10.0.0.tgz 1932ms (cache miss)
+226 http fetch GET 200 https://registry.npmjs.org/zod/-/zod-3.24.1.tgz 1928ms (cache miss)
+227 http fetch GET 200 https://registry.npmjs.org/zod-to-json-schema/-/zod-to-json-schema-3.24.1.tgz 2050ms (cache miss)
+228 http fetch GET 200 https://registry.npmjs.org/@types/node/-/node-18.19.75.tgz 2125ms (cache miss)
+229 http fetch GET 200 https://registry.npmjs.org/axios/-/axios-1.7.9.tgz 2282ms (cache miss)
+230 http fetch GET 200 https://registry.npmjs.org/@browserbasehq/sdk/-/sdk-2.2.0.tgz 2282ms (cache miss)
+231 http fetch GET 200 https://registry.npmjs.org/langsmith/-/langsmith-0.2.15.tgz 2412ms (cache miss)
+232 http fetch GET 200 https://registry.npmjs.org/@browserbasehq/stagehand/-/stagehand-1.11.0.tgz 2353ms (cache miss)
+233 http fetch GET 200 https://registry.npmjs.org/@anthropic-ai/sdk/-/sdk-0.27.3.tgz 2437ms (cache miss)
+234 http fetch GET 200 https://registry.npmjs.org/playwright/-/playwright-1.50.1.tgz 2619ms (cache miss)
+235 http fetch GET 200 https://registry.npmjs.org/yaml/-/yaml-2.7.0.tgz 2650ms (cache miss)
+236 http fetch GET 200 https://registry.npmjs.org/ibm-cloud-sdk-core/-/ibm-cloud-sdk-core-5.1.2.tgz 2921ms (cache miss)
+237 http fetch GET 200 https://registry.npmjs.org/@langchain/core/-/core-0.3.37.tgz 3383ms (cache miss)
+238 http fetch GET 200 https://registry.npmjs.org/playwright-core/-/playwright-core-1.50.1.tgz 3543ms (cache miss)
+239 http fetch GET 200 https://registry.npmjs.org/openai/-/openai-4.82.0.tgz 3784ms (cache miss)
+240 http fetch GET 200 https://registry.npmjs.org/js-tiktoken/-/js-tiktoken-1.0.18.tgz 4203ms (cache miss)
+241 http fetch GET 200 https://registry.npmjs.org/langchain/-/langchain-0.3.15.tgz 4244ms (cache miss)
+242 http fetch GET 200 https://registry.npmjs.org/@langchain/community/-/community-0.3.24.tgz 4455ms (cache miss)
+243 silly ADD node_modules/zod-to-json-schema
+244 silly ADD node_modules/zod
+245 silly ADD node_modules/yaml
+246 silly ADD node_modules/ws
+247 silly ADD node_modules/whatwg-url
+248 silly ADD node_modules/webidl-conversions
+249 silly ADD node_modules/web-streams-polyfill
+250 silly ADD node_modules/uuid
+251 silly ADD node_modules/url-parse
+252 silly ADD node_modules/universalify
+253 silly ADD node_modules/undici-types
+254 silly ADD node_modules/tr46
+255 silly ADD node_modules/tough-cookie
+256 silly ADD node_modules/token-types
+257 silly ADD node_modules/strtok3
+258 silly ADD node_modules/string_decoder
+259 silly ADD node_modules/semver
+260 silly ADD node_modules/safe-buffer
+261 silly ADD node_modules/retry-axios
+262 silly ADD node_modules/retry
+263 silly ADD node_modules/requires-port
+264 silly ADD node_modules/readable-web-to-node-stream
+265 silly ADD node_modules/readable-stream
+266 silly ADD node_modules/querystringify
+267 silly ADD node_modules/punycode
+268 silly ADD node_modules/psl
+269 silly ADD node_modules/proxy-from-env
+270 silly ADD node_modules/process
+271 silly ADD node_modules/playwright-core
+272 silly ADD node_modules/playwright
+273 silly ADD node_modules/peek-readable
+274 silly ADD node_modules/p-timeout
+275 silly ADD node_modules/p-retry
+276 silly ADD node_modules/p-queue
+277 silly ADD node_modules/p-finally
+278 silly ADD node_modules/openapi-types
+279 silly ADD node_modules/openai
+280 silly ADD node_modules/node-fetch
+281 silly ADD node_modules/node-domexception
+282 silly ADD node_modules/mustache
+283 silly ADD node_modules/ms
+284 silly ADD node_modules/mime-types
+285 silly ADD node_modules/mime-db
+286 silly ADD node_modules/lodash.once
+287 silly ADD node_modules/lodash.isstring
+288 silly ADD node_modules/lodash.isplainobject
+289 silly ADD node_modules/lodash.isnumber
+290 silly ADD node_modules/lodash.isinteger
+291 silly ADD node_modules/lodash.isboolean
+292 silly ADD node_modules/lodash.includes
+293 silly ADD node_modules/langsmith
+294 silly ADD node_modules/langchain
+295 silly ADD node_modules/jws
+296 silly ADD node_modules/jwa
+297 silly ADD node_modules/jsonwebtoken
+298 silly ADD node_modules/jsonpointer
+299 silly ADD node_modules/js-yaml
+300 silly ADD node_modules/js-tiktoken
+301 silly ADD node_modules/isstream
+302 silly ADD node_modules/ieee754
+303 silly ADD node_modules/ibm-cloud-sdk-core
+304 silly ADD node_modules/ibm-cloud-sdk-core/node_modules/form-data
+305 silly ADD node_modules/ibm-cloud-sdk-core/node_modules/@types/node
+306 silly ADD node_modules/humanize-ms
+307 silly ADD
+308 silly ADD node_modules/formdata-node
+309 silly ADD node_modules/form-data-encoder
+310 silly ADD node_modules/form-data
+311 silly ADD node_modules/follow-redirects
+312 silly ADD node_modules/flat
+313 silly ADD node_modules/file-type
+314 silly ADD node_modules/extend
+315 silly ADD node_modules/expr-eval
+316 silly ADD node_modules/events
+317 silly ADD node_modules/eventemitter3
+318 silly ADD node_modules/event-target-shim
+319 silly ADD node_modules/ecdsa-sig-formatter
+320 silly ADD node_modules/dotenv
+321 silly ADD node_modules/delayed-stream
+322 silly ADD node_modules/deepmerge
+323 silly ADD node_modules/decamelize
+324 silly ADD node_modules/debug
+325 silly ADD node_modules/commander
+326 silly ADD node_modules/combined-stream
+327 silly ADD node_modules/camelcase
+328 silly ADD node_modules/buffer-equal-constant-time
+329 silly ADD node_modules/buffer
+330 silly ADD node_modules/binary-extensions
+331 silly ADD node_modules/base64-js
+332 silly ADD node_modules/axios
+333 silly ADD node_modules/asynckit
+334 silly ADD node_modules/argparse
+335 silly ADD node_modules/ansi-styles
+336 silly ADD node_modules/agentkeepalive
+337 silly ADD node_modules/abort-controller
+338 silly ADD node_modules/@types/uuid
+339 silly ADD node_modules/@types/tough-cookie
+340 silly ADD node_modules/@types/retry
+341 silly ADD node_modules/@types/node-fetch
+342 silly ADD node_modules/@types/node
+343 silly ADD node_modules/@types/ms
+344 silly ADD node_modules/@types/debug
+345 silly ADD node_modules/@tokenizer/token
+346 silly ADD node_modules/@playwright/test
+347 silly ADD node_modules/@langchain/textsplitters
+348 silly ADD node_modules/@langchain/openai
+349 silly ADD node_modules/@langchain/core
+350 silly ADD node_modules/@langchain/community
+351 silly ADD node_modules/@ibm-cloud/watsonx-ai
+352 silly ADD node_modules/@cfworker/json-schema
+353 silly ADD node_modules/@browserbasehq/stagehand
+354 silly ADD node_modules/@browserbasehq/sdk
+355 silly ADD node_modules/@anthropic-ai/sdk
+356 verbose cwd /home/user
+357 verbose os Linux 6.1.102
+358 verbose node v20.18.0
+359 verbose npm  v10.8.2
+360 verbose exit 0
+361 info ok
