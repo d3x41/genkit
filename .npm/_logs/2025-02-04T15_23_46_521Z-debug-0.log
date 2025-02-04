@@ -399,3 +399,153 @@
 398 silly packumentCache full:https://registry.npmjs.org/@planetscale%2fdatabase cache-miss
 399 http fetch GET 200 https://registry.npmjs.org/@planetscale%2fdatabase 4ms (cache hit)
 400 silly packumentCache full:https://registry.npmjs.org/@planetscale%2fdatabase set size:124886 disposed:false
+401 silly fetch manifest @premai/prem-sdk@^0.3.25
+402 silly packumentCache full:https://registry.npmjs.org/@premai%2fprem-sdk cache-miss
+403 http fetch GET 200 https://registry.npmjs.org/@premai%2fprem-sdk 10ms (cache hit)
+404 silly packumentCache full:https://registry.npmjs.org/@premai%2fprem-sdk set size:169315 disposed:false
+405 silly fetch manifest @qdrant/js-client-rest@^1.8.2
+406 silly packumentCache full:https://registry.npmjs.org/@qdrant%2fjs-client-rest cache-miss
+407 http fetch GET 200 https://registry.npmjs.org/@qdrant%2fjs-client-rest 4ms (cache hit)
+408 silly packumentCache full:https://registry.npmjs.org/@qdrant%2fjs-client-rest set size:83589 disposed:false
+409 silly fetch manifest @raycast/api@^1.55.2
+410 silly packumentCache full:https://registry.npmjs.org/@raycast%2fapi cache-miss
+411 http fetch GET 200 https://registry.npmjs.org/@raycast%2fapi 4ms (cache hit)
+412 silly packumentCache full:https://registry.npmjs.org/@raycast%2fapi set size:509857 disposed:false
+413 silly fetch manifest react-devtools@5.2.0
+414 silly packumentCache full:https://registry.npmjs.org/react-devtools cache-miss
+415 http fetch GET 200 https://registry.npmjs.org/react-devtools 5ms (cache hit)
+416 silly packumentCache full:https://registry.npmjs.org/react-devtools set size:370784 disposed:false
+417 silly fetch manifest @rockset/client@^0.9.1
+418 silly packumentCache full:https://registry.npmjs.org/@rockset%2fclient cache-miss
+419 http fetch GET 200 https://registry.npmjs.org/@rockset%2fclient 4ms (cache hit)
+420 silly packumentCache full:https://registry.npmjs.org/@rockset%2fclient set size:171008 disposed:false
+421 silly fetch manifest @smithy/eventstream-codec@^2.0.5
+422 silly packumentCache full:https://registry.npmjs.org/@smithy%2feventstream-codec cache-miss
+423 http fetch GET 200 https://registry.npmjs.org/@smithy%2feventstream-codec 3ms (cache hit)
+424 silly packumentCache full:https://registry.npmjs.org/@smithy%2feventstream-codec set size:133827 disposed:false
+425 silly fetch manifest @smithy/protocol-http@^3.0.6
+426 silly packumentCache full:https://registry.npmjs.org/@smithy%2fprotocol-http cache-miss
+427 http fetch GET 200 https://registry.npmjs.org/@smithy%2fprotocol-http 3ms (cache hit)
+428 silly packumentCache full:https://registry.npmjs.org/@smithy%2fprotocol-http set size:136659 disposed:false
+429 silly fetch manifest @smithy/signature-v4@^2.0.10
+430 silly packumentCache full:https://registry.npmjs.org/@smithy%2fsignature-v4 cache-miss
+431 http fetch GET 200 https://registry.npmjs.org/@smithy%2fsignature-v4 4ms (cache hit)
+432 silly packumentCache full:https://registry.npmjs.org/@smithy%2fsignature-v4 set size:158421 disposed:false
+433 silly fetch manifest @smithy/util-utf8@^2.0.0
+434 silly packumentCache full:https://registry.npmjs.org/@smithy%2futil-utf8 cache-miss
+435 http fetch GET 200 https://registry.npmjs.org/@smithy%2futil-utf8 11ms (cache hit)
+436 silly packumentCache full:https://registry.npmjs.org/@smithy%2futil-utf8 set size:38635 disposed:false
+437 silly fetch manifest @spider-cloud/spider-client@^0.0.21
+438 silly packumentCache full:https://registry.npmjs.org/@spider-cloud%2fspider-client cache-miss
+439 http fetch GET 200 https://registry.npmjs.org/@spider-cloud%2fspider-client 3ms (cache hit)
+440 silly packumentCache full:https://registry.npmjs.org/@spider-cloud%2fspider-client set size:122892 disposed:false
+441 silly fetch manifest @supabase/supabase-js@^2.45.0
+442 silly packumentCache full:https://registry.npmjs.org/@supabase%2fsupabase-js cache-miss
+443 http fetch GET 200 https://registry.npmjs.org/@supabase%2fsupabase-js 7ms (cache hit)
+444 silly packumentCache full:https://registry.npmjs.org/@supabase%2fsupabase-js set size:1359862 disposed:false
+445 silly fetch manifest @tensorflow-models/universal-sentence-encoder@*
+446 silly packumentCache full:https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder cache-miss
+447 http fetch GET 200 https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder 5ms (cache hit)
+448 silly packumentCache full:https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder set size:70301 disposed:false
+449 silly fetch manifest @tensorflow/tfjs-converter@^3.6.0
+450 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-converter cache-miss
+451 http fetch GET 200 https://registry.npmjs.org/@tensorflow%2ftfjs-converter 6ms (cache hit)
+452 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-converter set size:695997 disposed:false
+453 silly fetch manifest @tensorflow/tfjs-core@3.21.0
+454 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-core cache-miss
+455 http fetch GET 200 https://registry.npmjs.org/@tensorflow%2ftfjs-core 18ms (cache hit)
+456 silly packumentCache full:https://registry.npmjs.org/@tensorflow%2ftfjs-core set size:856686 disposed:false
+457 silly fetch manifest @upstash/ratelimit@^1.1.3 || ^2.0.3
+458 silly packumentCache full:https://registry.npmjs.org/@upstash%2fratelimit cache-miss
+459 http fetch GET 200 https://registry.npmjs.org/@upstash%2fratelimit 9ms (cache hit)
+460 silly packumentCache full:https://registry.npmjs.org/@upstash%2fratelimit set size:445059 disposed:false
+461 silly fetch manifest @upstash/redis@^1.34.3
+462 silly packumentCache full:https://registry.npmjs.org/@upstash%2fredis cache-miss
+463 http fetch GET 200 https://registry.npmjs.org/@upstash%2fredis 11ms (cache hit)
+464 silly packumentCache full:https://registry.npmjs.org/@upstash%2fredis set size:2707210 disposed:false
+465 silly fetch manifest @upstash/vector@^1.1.1
+466 silly packumentCache full:https://registry.npmjs.org/@upstash%2fvector cache-miss
+467 http fetch GET 200 https://registry.npmjs.org/@upstash%2fvector 6ms (cache hit)
+468 silly packumentCache full:https://registry.npmjs.org/@upstash%2fvector set size:512222 disposed:false
+469 silly fetch manifest @vercel/kv@*
+470 silly packumentCache full:https://registry.npmjs.org/@vercel%2fkv cache-miss
+471 http fetch GET 200 https://registry.npmjs.org/@vercel%2fkv 4ms (cache hit)
+472 silly packumentCache full:https://registry.npmjs.org/@vercel%2fkv set size:105916 disposed:false
+473 silly fetch manifest @vercel/postgres@*
+474 silly packumentCache full:https://registry.npmjs.org/@vercel%2fpostgres cache-miss
+475 http fetch GET 200 https://registry.npmjs.org/@vercel%2fpostgres 4ms (cache hit)
+476 silly packumentCache full:https://registry.npmjs.org/@vercel%2fpostgres set size:228703 disposed:false
+477 silly fetch manifest @writerai/writer-sdk@^0.40.2
+478 silly packumentCache full:https://registry.npmjs.org/@writerai%2fwriter-sdk cache-miss
+479 http fetch GET 200 https://registry.npmjs.org/@writerai%2fwriter-sdk 4ms (cache hit)
+480 silly packumentCache full:https://registry.npmjs.org/@writerai%2fwriter-sdk set size:50297 disposed:false
+481 silly fetch manifest @xata.io/client@^0.28.0
+482 silly packumentCache full:https://registry.npmjs.org/@xata.io%2fclient cache-miss
+483 http fetch GET 200 https://registry.npmjs.org/@xata.io%2fclient 32ms (cache hit)
+484 silly packumentCache full:https://registry.npmjs.org/@xata.io%2fclient set size:11331153 disposed:false
+485 silly fetch manifest @zilliz/milvus2-sdk-node@>=2.3.5
+486 silly packumentCache full:https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node cache-miss
+487 http fetch GET 200 https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node 9ms (cache hit)
+488 silly packumentCache full:https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node set size:265671 disposed:false
+489 silly fetch manifest apify-client@^2.7.1
+490 silly packumentCache full:https://registry.npmjs.org/apify-client cache-miss
+491 http fetch GET 200 https://registry.npmjs.org/apify-client 14ms (cache hit)
+492 silly packumentCache full:https://registry.npmjs.org/apify-client set size:2095703 disposed:false
+493 silly fetch manifest assemblyai@^4.6.0
+494 silly packumentCache full:https://registry.npmjs.org/assemblyai cache-miss
+495 http fetch GET 200 https://registry.npmjs.org/assemblyai 9ms (cache hit)
+496 silly packumentCache full:https://registry.npmjs.org/assemblyai set size:225045 disposed:false
+497 silly fetch manifest cassandra-driver@^4.7.2
+498 silly packumentCache full:https://registry.npmjs.org/cassandra-driver cache-miss
+499 http fetch GET 200 https://registry.npmjs.org/cassandra-driver 4ms (cache hit)
+500 silly packumentCache full:https://registry.npmjs.org/cassandra-driver set size:128151 disposed:false
+501 silly fetch manifest cborg@^4.1.1
+502 silly packumentCache full:https://registry.npmjs.org/cborg cache-miss
+503 http fetch GET 200 https://registry.npmjs.org/cborg 4ms (cache hit)
+504 silly packumentCache full:https://registry.npmjs.org/cborg set size:350013 disposed:false
+505 silly fetch manifest chromadb@*
+506 silly packumentCache full:https://registry.npmjs.org/chromadb cache-miss
+507 http fetch GET 200 https://registry.npmjs.org/chromadb 4ms (cache hit)
+508 silly packumentCache full:https://registry.npmjs.org/chromadb set size:179677 disposed:false
+509 silly fetch manifest @google/generative-ai@^0.1.1
+510 silly packumentCache full:https://registry.npmjs.org/@google%2fgenerative-ai cache-miss
+511 http fetch GET 200 https://registry.npmjs.org/@google%2fgenerative-ai 3ms (cache hit)
+512 silly packumentCache full:https://registry.npmjs.org/@google%2fgenerative-ai set size:103628 disposed:false
+513 silly fetch manifest cohere-ai@^5.0.0 || ^6.0.0 || ^7.0.0
+514 silly packumentCache full:https://registry.npmjs.org/cohere-ai cache-miss
+515 http fetch GET 200 https://registry.npmjs.org/cohere-ai 4ms (cache hit)
+516 silly packumentCache full:https://registry.npmjs.org/cohere-ai set size:225177 disposed:false
+517 silly fetch manifest voyageai@^0.0.3-1
+518 silly packumentCache full:https://registry.npmjs.org/voyageai cache-miss
+519 http fetch GET 200 https://registry.npmjs.org/voyageai 4ms (cache hit)
+520 silly packumentCache full:https://registry.npmjs.org/voyageai set size:26992 disposed:false
+521 silly fetch manifest closevector-common@0.1.3
+522 silly packumentCache full:https://registry.npmjs.org/closevector-common cache-miss
+523 http fetch GET 200 https://registry.npmjs.org/closevector-common 3ms (cache hit)
+524 silly packumentCache full:https://registry.npmjs.org/closevector-common set size:4820 disposed:false
+525 silly fetch manifest closevector-node@0.1.6
+526 silly packumentCache full:https://registry.npmjs.org/closevector-node cache-miss
+527 http fetch GET 200 https://registry.npmjs.org/closevector-node 3ms (cache hit)
+528 silly packumentCache full:https://registry.npmjs.org/closevector-node set size:27932 disposed:false
+529 silly fetch manifest closevector-web@0.1.6
+530 silly packumentCache full:https://registry.npmjs.org/closevector-web cache-miss
+531 http fetch GET 200 https://registry.npmjs.org/closevector-web 3ms (cache hit)
+532 silly packumentCache full:https://registry.npmjs.org/closevector-web set size:44169 disposed:false
+533 silly fetch manifest convex@^1.3.1
+534 silly packumentCache full:https://registry.npmjs.org/convex cache-miss
+535 http fetch GET 200 https://registry.npmjs.org/convex 8ms (cache hit)
+536 silly packumentCache full:https://registry.npmjs.org/convex set size:1091239 disposed:false
+537 silly fetch manifest @auth0/auth0-react@^2.0.1
+538 silly packumentCache full:https://registry.npmjs.org/@auth0%2fauth0-react cache-miss
+539 http fetch GET 200 https://registry.npmjs.org/@auth0%2fauth0-react 8ms (cache hit)
+540 silly packumentCache full:https://registry.npmjs.org/@auth0%2fauth0-react set size:219908 disposed:false
+541 silly fetch manifest react@^16.11.0 || ^17 || ^18 || ^19
+542 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+543 http fetch GET 200 https://registry.npmjs.org/react 18ms (cache hit)
+544 silly packumentCache full:https://registry.npmjs.org/react set size:5400252 disposed:false
+545 silly fetch manifest react-dom@^16.11.0 || ^17 || ^18 || ^19
+546 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+547 http fetch GET 200 https://registry.npmjs.org/react-dom 26ms (cache hit)
+548 silly packumentCache full:https://registry.npmjs.org/react-dom set size:6729055 disposed:false
+549 silly fetch manifest @clerk/clerk-react@^4.12.8 || ^5.0.0
+550 silly packumentCache full:https://registry.npmjs.org/@clerk%2fclerk-react cache-miss
