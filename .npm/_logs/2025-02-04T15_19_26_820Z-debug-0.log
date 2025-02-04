@@ -14,3 +14,35 @@
 13 silly fetch manifest @langchain/community@0.3.24
 14 silly packumentCache full:https://registry.npmjs.org/@langchain%2fcommunity cache-miss
 15 http fetch GET 200 https://registry.npmjs.org/npm 175ms
+16 http fetch GET 200 https://registry.npmjs.org/@langchain%2fcommunity 933ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@langchain%2fcommunity set size:undefined disposed:false
+18 silly fetch manifest @arcjet/redact@^v1.0.0-alpha.23
+19 silly packumentCache full:https://registry.npmjs.org/@arcjet%2fredact cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@arcjet%2fredact 525ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@arcjet%2fredact set size:undefined disposed:false
+22 silly fetch manifest @aws-crypto/sha256-js@^5.0.0
+23 silly packumentCache full:https://registry.npmjs.org/@aws-crypto%2fsha256-js cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/@aws-crypto%2fsha256-js 57ms (cache miss)
+25 silly packumentCache full:https://registry.npmjs.org/@aws-crypto%2fsha256-js set size:undefined disposed:false
+26 silly fetch manifest @aws-sdk/client-bedrock-agent-runtime@^3.583.0
+27 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-agent-runtime cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-agent-runtime 64ms (cache miss)
+29 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-agent-runtime set size:undefined disposed:false
+30 silly fetch manifest @aws-sdk/client-bedrock-runtime@^3.422.0
+31 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-runtime cache-miss
+32 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-runtime 67ms (cache miss)
+33 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-runtime set size:undefined disposed:false
+34 silly fetch manifest @aws-sdk/client-dynamodb@^3.310.0
+35 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-dynamodb cache-miss
+36 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-dynamodb 90ms (cache miss)
+37 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-dynamodb set size:undefined disposed:false
+38 silly fetch manifest @aws-sdk/client-kendra@^3.352.0
+39 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-kendra cache-miss
+40 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-kendra 204ms (cache miss)
+41 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-kendra set size:undefined disposed:false
+42 silly fetch manifest @aws-sdk/client-lambda@^3.310.0
+43 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-lambda cache-miss
+44 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-lambda 149ms (cache miss)
+45 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-lambda set size:undefined disposed:false
+46 silly fetch manifest @aws-sdk/client-s3@^3.310.0
+47 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-s3 cache-miss
