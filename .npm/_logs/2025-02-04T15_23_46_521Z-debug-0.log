@@ -1255,3 +1255,217 @@
 1254 silly packumentCache full:https://registry.npmjs.org/simple-wcswidth cache-miss
 1255 http fetch GET 200 https://registry.npmjs.org/supports-color 50ms (cache miss)
 1256 silly packumentCache full:https://registry.npmjs.org/supports-color set size:undefined disposed:false
+1257 http fetch GET 200 https://registry.npmjs.org/simple-wcswidth 146ms (cache miss)
+1258 silly packumentCache full:https://registry.npmjs.org/simple-wcswidth set size:undefined disposed:false
+1259 silly placeDep node_modules/chalk ansi-styles@4.3.0 OK for: chalk@4.1.2 want: ^4.1.0
+1260 silly placeDep ROOT supports-color@7.2.0 OK for: chalk@4.1.2 want: ^7.1.0
+1261 silly fetch manifest color-convert@^2.0.1
+1262 silly packumentCache full:https://registry.npmjs.org/color-convert cache-miss
+1263 silly fetch manifest has-flag@^4.0.0
+1264 silly packumentCache full:https://registry.npmjs.org/has-flag cache-miss
+1265 http fetch GET 200 https://registry.npmjs.org/has-flag 39ms (cache miss)
+1266 silly packumentCache full:https://registry.npmjs.org/has-flag set size:undefined disposed:false
+1267 http fetch GET 200 https://registry.npmjs.org/color-convert 42ms (cache miss)
+1268 silly packumentCache full:https://registry.npmjs.org/color-convert set size:undefined disposed:false
+1269 silly placeDep ROOT simple-wcswidth@1.0.1 OK for: console-table-printer@2.12.1 want: ^1.0.1
+1270 silly placeDep ROOT mime-db@1.52.0 OK for: mime-types@2.1.35 want: 1.52.0
+1271 silly placeDep ROOT whatwg-url@5.0.0 OK for: node-fetch@2.7.0 want: ^5.0.0
+1272 silly fetch manifest tr46@~0.0.3
+1273 silly packumentCache full:https://registry.npmjs.org/tr46 cache-miss
+1274 silly fetch manifest webidl-conversions@^3.0.0
+1275 silly packumentCache full:https://registry.npmjs.org/webidl-conversions cache-miss
+1276 http fetch GET 200 https://registry.npmjs.org/tr46 7ms (cache hit)
+1277 silly packumentCache full:https://registry.npmjs.org/tr46 set size:41044 disposed:false
+1278 http fetch GET 200 https://registry.npmjs.org/webidl-conversions 7ms (cache hit)
+1279 silly packumentCache full:https://registry.npmjs.org/webidl-conversions set size:41857 disposed:false
+1280 silly placeDep ROOT eventemitter3@4.0.7 OK for: p-queue@6.6.2 want: ^4.0.4
+1281 silly placeDep ROOT p-timeout@3.2.0 OK for: p-queue@6.6.2 want: ^3.2.0
+1282 silly fetch manifest p-finally@^1.0.0
+1283 silly packumentCache full:https://registry.npmjs.org/p-finally cache-miss
+1284 http fetch GET 200 https://registry.npmjs.org/p-finally 5ms (cache hit)
+1285 silly packumentCache full:https://registry.npmjs.org/p-finally set size:11668 disposed:false
+1286 silly placeDep ROOT @types/retry@0.12.0 OK for: p-retry@4.6.2 want: 0.12.0
+1287 silly placeDep ROOT retry@0.13.1 OK for: p-retry@4.6.2 want: ^0.13.1
+1288 silly placeDep ROOT p-finally@1.0.0 OK for: p-timeout@3.2.0 want: ^1.0.0
+1289 silly placeDep ROOT fsevents@2.3.2 OK for: playwright@1.50.1 want: 2.3.2
+1290 silly placeDep ROOT playwright-core@1.50.1 OK for: playwright@1.50.1 want: 1.50.1
+1291 silly placeDep ROOT process@0.11.10 OK for: readable-web-to-node-stream@3.0.3 want: ^0.11.10
+1292 silly placeDep ROOT readable-stream@4.7.0 OK for: readable-web-to-node-stream@3.0.3 want: ^4.7.0
+1293 silly fetch manifest buffer@^6.0.3
+1294 silly packumentCache full:https://registry.npmjs.org/buffer cache-miss
+1295 silly fetch manifest events@^3.3.0
+1296 silly packumentCache full:https://registry.npmjs.org/events cache-miss
+1297 silly fetch manifest string_decoder@^1.3.0
+1298 silly packumentCache full:https://registry.npmjs.org/string_decoder cache-miss
+1299 http fetch GET 200 https://registry.npmjs.org/events 11ms (cache hit)
+1300 silly packumentCache full:https://registry.npmjs.org/events set size:35240 disposed:false
+1301 http fetch GET 200 https://registry.npmjs.org/string_decoder 11ms (cache hit)
+1302 silly packumentCache full:https://registry.npmjs.org/string_decoder set size:28441 disposed:false
+1303 http fetch GET 200 https://registry.npmjs.org/buffer 14ms (cache hit)
+1304 silly packumentCache full:https://registry.npmjs.org/buffer set size:280480 disposed:false
+1305 silly placeDep ROOT buffer@6.0.3 OK for: readable-stream@4.7.0 want: ^6.0.3
+1306 silly placeDep ROOT events@3.3.0 OK for: readable-stream@4.7.0 want: ^3.3.0
+1307 silly placeDep ROOT string_decoder@1.3.0 OK for: readable-stream@4.7.0 want: ^1.3.0
+1308 silly placeDep ROOT ieee754@1.2.1 OK for: buffer@6.0.3 want: ^1.2.1
+1309 silly placeDep ROOT @tokenizer/token@0.3.0 OK for: strtok3@6.3.0 want: ^0.3.0
+1310 silly placeDep ROOT peek-readable@4.1.0 OK for: strtok3@6.3.0 want: ^4.1.0
+1311 silly placeDep ROOT has-flag@4.0.0 OK for: supports-color@7.2.0 want: ^4.0.0
+1312 silly placeDep ROOT psl@1.15.0 OK for: tough-cookie@4.1.4 want: ^1.1.33
+1313 silly placeDep ROOT punycode@2.3.1 OK for: tough-cookie@4.1.4 want: ^2.1.1
+1314 silly placeDep ROOT universalify@0.2.0 OK for: tough-cookie@4.1.4 want: ^0.2.0
+1315 silly placeDep ROOT url-parse@1.5.10 OK for: tough-cookie@4.1.4 want: ^1.5.3
+1316 silly fetch manifest punycode@^2.3.1
+1317 silly packumentCache full:https://registry.npmjs.org/punycode cache-hit
+1318 silly fetch manifest querystringify@^2.1.1
+1319 silly packumentCache full:https://registry.npmjs.org/querystringify cache-miss
+1320 silly fetch manifest requires-port@^1.0.0
+1321 silly packumentCache full:https://registry.npmjs.org/requires-port cache-miss
+1322 http fetch GET 200 https://registry.npmjs.org/querystringify 6ms (cache hit)
+1323 silly packumentCache full:https://registry.npmjs.org/querystringify set size:25075 disposed:false
+1324 http fetch GET 200 https://registry.npmjs.org/requires-port 6ms (cache hit)
+1325 silly packumentCache full:https://registry.npmjs.org/requires-port set size:8110 disposed:false
+1326 silly placeDep ROOT querystringify@2.2.0 OK for: url-parse@1.5.10 want: ^2.1.1
+1327 silly placeDep ROOT requires-port@1.0.0 OK for: url-parse@1.5.10 want: ^1.0.0
+1328 silly placeDep ROOT tr46@0.0.3 OK for: whatwg-url@5.0.0 want: ~0.0.3
+1329 silly placeDep ROOT webidl-conversions@3.0.1 OK for: whatwg-url@5.0.0 want: ^3.0.0
+1330 silly placeDep ROOT color-convert@2.0.1 OK for: ansi-styles@4.3.0 want: ^2.0.1
+1331 silly fetch manifest color-name@~1.1.4
+1332 silly packumentCache full:https://registry.npmjs.org/color-name cache-miss
+1333 http fetch GET 200 https://registry.npmjs.org/color-name 37ms (cache miss)
+1334 silly packumentCache full:https://registry.npmjs.org/color-name set size:undefined disposed:false
+1335 silly placeDep ROOT color-name@1.1.4 OK for: color-convert@2.0.1 want: ~1.1.4
+1336 silly reify moves {}
+1337 silly audit bulk request {
+1337 silly audit   '@langchain/community': [ '0.3.28' ],
+1337 silly audit   '@browserbasehq/stagehand': [ '1.11.0' ],
+1337 silly audit   zod: [ '3.24.1' ],
+1337 silly audit   dotenv: [ '16.4.7' ],
+1337 silly audit   openai: [ '4.82.0' ],
+1337 silly audit   deepmerge: [ '4.3.1' ],
+1337 silly audit   '@playwright/test': [ '1.50.1' ],
+1337 silly audit   '@ibm-cloud/watsonx-ai': [ '1.4.0' ],
+1337 silly audit   '@langchain/core': [ '0.3.37' ],
+1337 silly audit   'ibm-cloud-sdk-core': [ '5.1.2' ],
+1337 silly audit   '@anthropic-ai/sdk': [ '0.27.3' ],
+1337 silly audit   '@browserbasehq/sdk': [ '2.2.0' ],
+1337 silly audit   ws: [ '8.18.0' ],
+1337 silly audit   'zod-to-json-schema': [ '3.24.1' ],
+1337 silly audit   '@types/node': [ '18.19.75', '10.14.22' ],
+1337 silly audit   '@types/node-fetch': [ '2.6.12' ],
+1337 silly audit   'abort-controller': [ '3.0.0' ],
+1337 silly audit   agentkeepalive: [ '4.6.0' ],
+1337 silly audit   'form-data-encoder': [ '1.7.2' ],
+1337 silly audit   'formdata-node': [ '4.4.1' ],
+1337 silly audit   'node-fetch': [ '2.7.0' ],
+1337 silly audit   '@langchain/textsplitters': [ '0.1.0' ],
+1337 silly audit   extend: [ '3.0.2' ],
+1337 silly audit   '@langchain/openai': [ '0.4.2' ],
+1337 silly audit   'binary-extensions': [ '2.3.0' ],
+1337 silly audit   'expr-eval': [ '2.0.2' ],
+1337 silly audit   flat: [ '5.0.2' ],
+1337 silly audit   'js-yaml': [ '4.1.0' ],
+1337 silly audit   langchain: [ '0.3.15' ],
+1337 silly audit   langsmith: [ '0.3.4' ],
+1337 silly audit   uuid: [ '10.0.0' ],
+1337 silly audit   '@cfworker/json-schema': [ '4.1.1' ],
+1337 silly audit   'ansi-styles': [ '5.2.0', '4.3.0' ],
+1337 silly audit   camelcase: [ '6.3.0' ],
+1337 silly audit   decamelize: [ '1.2.0' ],
+1337 silly audit   'js-tiktoken': [ '1.0.18' ],
+1337 silly audit   mustache: [ '4.2.0' ],
+1337 silly audit   'p-queue': [ '6.6.2' ],
+1337 silly audit   'p-retry': [ '4.6.2' ],
+1337 silly audit   playwright: [ '1.50.1' ],
+1337 silly audit   'undici-types': [ '5.26.5' ],
+1337 silly audit   'form-data': [ '4.0.1', '4.0.0' ],
+1337 silly audit   'event-target-shim': [ '5.0.1' ],
+1337 silly audit   'humanize-ms': [ '1.2.1' ],
+1337 silly audit   asynckit: [ '0.4.0' ],
+1337 silly audit   'combined-stream': [ '1.0.8' ],
+1337 silly audit   'mime-types': [ '2.1.35' ],
+1337 silly audit   'delayed-stream': [ '1.0.0' ],
+1337 silly audit   'node-domexception': [ '1.0.0' ],
+1337 silly audit   'web-streams-polyfill': [ '4.0.0-beta.3' ],
+1337 silly audit   ms: [ '2.1.3' ],
+1337 silly audit   '@types/debug': [ '4.1.12' ],
+1337 silly audit   '@types/tough-cookie': [ '4.0.5' ],
+1337 silly audit   axios: [ '1.7.9' ],
+1337 silly audit   debug: [ '4.4.0' ],
+1337 silly audit   'file-type': [ '16.5.4' ],
+1337 silly audit   isstream: [ '0.1.2' ],
+1337 silly audit   jsonwebtoken: [ '9.0.2' ],
+1337 silly audit   'retry-axios': [ '2.6.0' ],
+1337 silly audit   'tough-cookie': [ '4.1.4' ],
+1337 silly audit   '@types/ms': [ '2.1.0' ],
+1337 silly audit   'follow-redirects': [ '1.15.9' ],
+1337 silly audit   'proxy-from-env': [ '1.1.0' ],
+1337 silly audit   'readable-web-to-node-stream': [ '3.0.3' ],
+1337 silly audit   strtok3: [ '6.3.0' ],
+1337 silly audit   'token-types': [ '4.2.1' ],
+1337 silly audit   'base64-js': [ '1.5.1' ],
+1337 silly audit   argparse: [ '2.0.1' ],
+1337 silly audit   jws: [ '3.2.2' ],
+1337 silly audit   'lodash.includes': [ '4.3.0' ],
+1337 silly audit   'lodash.isboolean': [ '3.0.3' ],
+1337 silly audit   'lodash.isinteger': [ '4.0.4' ],
+1337 silly audit   'lodash.isnumber': [ '3.0.3' ],
+1337 silly audit   'lodash.isplainobject': [ '4.0.6' ],
+1337 silly audit   'lodash.isstring': [ '4.0.1' ],
+1337 silly audit   'lodash.once': [ '4.1.1' ],
+1337 silly audit   semver: [ '7.7.1' ],
+1337 silly audit   jwa: [ '1.4.1' ],
+1337 silly audit   'safe-buffer': [ '5.2.1' ],
+1337 silly audit   'buffer-equal-constant-time': [ '1.0.1' ],
+1337 silly audit   'ecdsa-sig-formatter': [ '1.0.11' ],
+1337 silly audit   jsonpointer: [ '5.0.1' ],
+1337 silly audit   'openapi-types': [ '12.1.3' ],
+1337 silly audit   yaml: [ '2.7.0' ],
+1337 silly audit   '@types/uuid': [ '10.0.0' ],
+1337 silly audit   chalk: [ '4.1.2' ],
+1337 silly audit   'console-table-printer': [ '2.12.1' ],
+1337 silly audit   'supports-color': [ '7.2.0' ],
+1337 silly audit   'simple-wcswidth': [ '1.0.1' ],
+1337 silly audit   'mime-db': [ '1.52.0' ],
+1337 silly audit   'whatwg-url': [ '5.0.0' ],
+1337 silly audit   eventemitter3: [ '4.0.7' ],
+1337 silly audit   'p-timeout': [ '3.2.0' ],
+1337 silly audit   '@types/retry': [ '0.12.0' ],
+1337 silly audit   retry: [ '0.13.1' ],
+1337 silly audit   'p-finally': [ '1.0.0' ],
+1337 silly audit   fsevents: [ '2.3.2' ],
+1337 silly audit   'playwright-core': [ '1.50.1' ],
+1337 silly audit   process: [ '0.11.10' ],
+1337 silly audit   'readable-stream': [ '4.7.0' ],
+1337 silly audit   buffer: [ '6.0.3' ],
+1337 silly audit   events: [ '3.3.0' ],
+1337 silly audit   string_decoder: [ '1.3.0' ],
+1337 silly audit   ieee754: [ '1.2.1' ],
+1337 silly audit   '@tokenizer/token': [ '0.3.0' ],
+1337 silly audit   'peek-readable': [ '4.1.0' ],
+1337 silly audit   'has-flag': [ '4.0.0' ],
+1337 silly audit   psl: [ '1.15.0' ],
+1337 silly audit   punycode: [ '2.3.1' ],
+1337 silly audit   universalify: [ '0.2.0' ],
+1337 silly audit   'url-parse': [ '1.5.10' ],
+1337 silly audit   querystringify: [ '2.2.0' ],
+1337 silly audit   'requires-port': [ '1.0.0' ],
+1337 silly audit   tr46: [ '0.0.3' ],
+1337 silly audit   'webidl-conversions': [ '3.0.1' ],
+1337 silly audit   'color-convert': [ '2.0.1' ],
+1337 silly audit   'color-name': [ '1.1.4' ]
+1337 silly audit }
+1338 verbose reify failed optional dependency /home/user/node_modules/fsevents
+1339 silly reify mark deleted [ '/home/user/node_modules/fsevents' ]
+1340 silly tarball no local data for color-name@https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz. Extracting by manifest.
+1341 silly tarball no local data for color-convert@https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz. Extracting by manifest.
+1342 silly tarball no local data for has-flag@https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz. Extracting by manifest.
+1343 silly tarball no local data for simple-wcswidth@https://registry.npmjs.org/simple-wcswidth/-/simple-wcswidth-1.0.1.tgz. Extracting by manifest.
+1344 silly tarball no local data for supports-color@https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz. Extracting by manifest.
+1345 silly tarball no local data for chalk@https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz. Extracting by manifest.
+1346 silly tarball no local data for console-table-printer@https://registry.npmjs.org/console-table-printer/-/console-table-printer-2.12.1.tgz. Extracting by manifest.
+1347 silly tarball no local data for langsmith@https://registry.npmjs.org/langsmith/-/langsmith-0.3.4.tgz. Extracting by manifest.
+1348 silly tarball no local data for @langchain/openai@https://registry.npmjs.org/@langchain/openai/-/openai-0.4.2.tgz. Extracting by manifest.
+1349 silly tarball no local data for @langchain/community@https://registry.npmjs.org/@langchain/community/-/community-0.3.28.tgz. Extracting by manifest.
+1350 silly tarball no local data for ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz. Extracting by manifest.
+1351 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 709ms
+1352 silly audit report {}
