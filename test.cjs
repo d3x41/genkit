@@ -1,4 +1,4 @@
-import { OpenAI } from '@langchain/community/index.js';
+const { OpenAI } = require('@langchain/community');
 
 async function testLangChain() {
   const model = new OpenAI({ openAIApiKey: 'your-api-key' });
