@@ -8,3 +8,73 @@
 7 verbose argv "install" "@langchain/community"
 8 verbose logfile logs-max:10 dir:/home/user/.npm/_logs/2025-02-04T15_23_46_521Z-
 9 verbose logfile /home/user/.npm/_logs/2025-02-04T15_23_46_521Z-debug-0.log
+10 silly packumentCache heap:2116812800 maxSize:529203200 maxEntrySize:264601600
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly fetch manifest @langchain/community@*
+14 silly packumentCache full:https://registry.npmjs.org/@langchain%2fcommunity cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/@langchain%2fcommunity 48ms (cache hit)
+16 silly packumentCache full:https://registry.npmjs.org/@langchain%2fcommunity set size:8718526 disposed:false
+17 silly fetch manifest @arcjet/redact@^v1.0.0-alpha.23
+18 silly packumentCache full:https://registry.npmjs.org/@arcjet%2fredact cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/@arcjet%2fredact 7ms (cache hit)
+20 silly packumentCache full:https://registry.npmjs.org/@arcjet%2fredact set size:29842 disposed:false
+21 silly fetch manifest @aws-crypto/sha256-js@^5.0.0
+22 silly packumentCache full:https://registry.npmjs.org/@aws-crypto%2fsha256-js cache-miss
+23 http fetch GET 200 https://registry.npmjs.org/@aws-crypto%2fsha256-js 5ms (cache hit)
+24 silly packumentCache full:https://registry.npmjs.org/@aws-crypto%2fsha256-js set size:54928 disposed:false
+25 silly fetch manifest @aws-sdk/client-bedrock-agent-runtime@^3.583.0
+26 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-agent-runtime cache-miss
+27 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-agent-runtime 7ms (cache hit)
+28 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-agent-runtime set size:663520 disposed:false
+29 silly fetch manifest @aws-sdk/client-bedrock-runtime@^3.422.0
+30 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-runtime cache-miss
+31 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-runtime 6ms (cache hit)
+32 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-bedrock-runtime set size:680563 disposed:false
+33 silly fetch manifest @aws-sdk/client-dynamodb@^3.310.0
+34 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-dynamodb cache-miss
+35 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-dynamodb 11ms (cache hit)
+36 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-dynamodb set size:2202376 disposed:false
+37 silly fetch manifest @aws-sdk/client-kendra@^3.352.0
+38 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-kendra cache-miss
+39 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-kendra 13ms (cache hit)
+40 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-kendra set size:2104397 disposed:false
+41 silly fetch manifest @aws-sdk/client-lambda@^3.310.0
+42 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-lambda cache-miss
+43 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-lambda 12ms (cache hit)
+44 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-lambda set size:2216189 disposed:false
+45 silly fetch manifest @aws-sdk/client-s3@^3.310.0
+46 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-s3 cache-miss
+47 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-s3 15ms (cache hit)
+48 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-s3 set size:2762951 disposed:false
+49 silly fetch manifest @aws-sdk/client-sagemaker-runtime@^3.310.0
+50 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sagemaker-runtime cache-miss
+51 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-sagemaker-runtime 15ms (cache hit)
+52 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sagemaker-runtime set size:2077040 disposed:false
+53 silly fetch manifest @aws-sdk/client-sfn@^3.310.0
+54 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sfn cache-miss
+55 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-sfn 11ms (cache hit)
+56 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sfn set size:2025863 disposed:false
+57 silly fetch manifest @aws-sdk/credential-provider-node@^3.388.0
+58 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fcredential-provider-node cache-miss
+59 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fcredential-provider-node 9ms (cache hit)
+60 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fcredential-provider-node set size:1366858 disposed:false
+61 silly fetch manifest @azure/search-documents@^12.0.0
+62 silly packumentCache full:https://registry.npmjs.org/@azure%2fsearch-documents cache-miss
+63 http fetch GET 200 https://registry.npmjs.org/@azure%2fsearch-documents 10ms (cache hit)
+64 silly packumentCache full:https://registry.npmjs.org/@azure%2fsearch-documents set size:1740767 disposed:false
+65 silly fetch manifest @azure/storage-blob@^12.15.0
+66 silly packumentCache full:https://registry.npmjs.org/@azure%2fstorage-blob cache-miss
+67 http fetch GET 200 https://registry.npmjs.org/@azure%2fstorage-blob 15ms (cache hit)
+68 silly packumentCache full:https://registry.npmjs.org/@azure%2fstorage-blob set size:3710483 disposed:false
+69 silly fetch manifest @browserbasehq/sdk@*
+70 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fsdk cache-miss
+71 http fetch GET 200 https://registry.npmjs.org/@browserbasehq%2fsdk 7ms (cache hit)
+72 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fsdk set size:111069 disposed:false
+73 silly fetch manifest @browserbasehq/stagehand@^1.0.0
+74 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fstagehand cache-miss
+75 http fetch GET 200 https://registry.npmjs.org/@browserbasehq%2fstagehand 8ms (cache hit)
+76 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fstagehand set size:374058 disposed:false
+77 silly fetch manifest @playwright/test@^1.42.1
+78 silly packumentCache full:https://registry.npmjs.org/@playwright%2ftest cache-miss
+79 http fetch GET 200 https://registry.npmjs.org/@playwright%2ftest 23ms (cache hit)
