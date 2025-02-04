@@ -8,3 +8,11 @@
 7 verbose argv "view" "@langchain/community@0.3.24" "changelog"
 8 verbose logfile logs-max:10 dir:/home/user/.npm/_logs/2025-02-04T15_20_13_438Z-
 9 verbose logfile /home/user/.npm/_logs/2025-02-04T15_20_13_438Z-debug-0.log
+10 silly logfile done cleaning log files
+11 http fetch GET 200 https://registry.npmjs.org/@langchain%2fcommunity 545ms (cache updated)
+12 verbose cwd /home/user
+13 verbose os Linux 6.1.102
+14 verbose node v20.18.0
+15 verbose npm  v10.8.2
+16 verbose exit 0
+17 info ok
