@@ -46,3 +46,61 @@
 45 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-lambda set size:undefined disposed:false
 46 silly fetch manifest @aws-sdk/client-s3@^3.310.0
 47 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-s3 cache-miss
+48 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-s3 178ms (cache miss)
+49 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-s3 set size:undefined disposed:false
+50 silly fetch manifest @aws-sdk/client-sagemaker-runtime@^3.310.0
+51 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sagemaker-runtime cache-miss
+52 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-sagemaker-runtime 179ms (cache miss)
+53 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sagemaker-runtime set size:undefined disposed:false
+54 silly fetch manifest @aws-sdk/client-sfn@^3.310.0
+55 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sfn cache-miss
+56 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fclient-sfn 83ms (cache miss)
+57 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fclient-sfn set size:undefined disposed:false
+58 silly fetch manifest @aws-sdk/credential-provider-node@^3.388.0
+59 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fcredential-provider-node cache-miss
+60 http fetch GET 200 https://registry.npmjs.org/@aws-sdk%2fcredential-provider-node 72ms (cache miss)
+61 silly packumentCache full:https://registry.npmjs.org/@aws-sdk%2fcredential-provider-node set size:undefined disposed:false
+62 silly fetch manifest @azure/search-documents@^12.0.0
+63 silly packumentCache full:https://registry.npmjs.org/@azure%2fsearch-documents cache-miss
+64 http fetch GET 200 https://registry.npmjs.org/@azure%2fsearch-documents 379ms (cache miss)
+65 silly packumentCache full:https://registry.npmjs.org/@azure%2fsearch-documents set size:undefined disposed:false
+66 silly fetch manifest @azure/storage-blob@^12.15.0
+67 silly packumentCache full:https://registry.npmjs.org/@azure%2fstorage-blob cache-miss
+68 http fetch GET 200 https://registry.npmjs.org/@azure%2fstorage-blob 99ms (cache miss)
+69 silly packumentCache full:https://registry.npmjs.org/@azure%2fstorage-blob set size:undefined disposed:false
+70 silly fetch manifest @browserbasehq/sdk@*
+71 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fsdk cache-miss
+72 http fetch GET 200 https://registry.npmjs.org/@browserbasehq%2fsdk 327ms (cache miss)
+73 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fsdk set size:undefined disposed:false
+74 silly fetch manifest @browserbasehq/stagehand@^1.0.0
+75 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fstagehand cache-miss
+76 http fetch GET 200 https://registry.npmjs.org/@browserbasehq%2fstagehand 543ms (cache miss)
+77 silly packumentCache full:https://registry.npmjs.org/@browserbasehq%2fstagehand set size:undefined disposed:false
+78 silly fetch manifest @playwright/test@^1.42.1
+79 silly packumentCache full:https://registry.npmjs.org/@playwright%2ftest cache-miss
+80 http fetch GET 200 https://registry.npmjs.org/@playwright%2ftest 186ms (cache miss)
+81 silly packumentCache full:https://registry.npmjs.org/@playwright%2ftest set size:undefined disposed:false
+82 silly fetch manifest deepmerge@^4.3.1
+83 silly packumentCache full:https://registry.npmjs.org/deepmerge cache-miss
+84 http fetch GET 200 https://registry.npmjs.org/deepmerge 38ms (cache miss)
+85 silly packumentCache full:https://registry.npmjs.org/deepmerge set size:undefined disposed:false
+86 silly fetch manifest dotenv@^16.4.5
+87 silly packumentCache full:https://registry.npmjs.org/dotenv cache-miss
+88 http fetch GET 200 https://registry.npmjs.org/dotenv 37ms (cache miss)
+89 silly packumentCache full:https://registry.npmjs.org/dotenv set size:undefined disposed:false
+90 silly fetch manifest openai@^4.62.1
+91 silly packumentCache full:https://registry.npmjs.org/openai cache-miss
+92 http fetch GET 200 https://registry.npmjs.org/openai 72ms (cache miss)
+93 silly packumentCache full:https://registry.npmjs.org/openai set size:undefined disposed:false
+94 silly fetch manifest ws@^8.18.0
+95 silly packumentCache full:https://registry.npmjs.org/ws cache-miss
+96 http fetch GET 200 https://registry.npmjs.org/ws 41ms (cache miss)
+97 silly packumentCache full:https://registry.npmjs.org/ws set size:undefined disposed:false
+98 silly fetch manifest bufferutil@^4.0.1
+99 silly packumentCache full:https://registry.npmjs.org/bufferutil cache-miss
+100 http fetch GET 200 https://registry.npmjs.org/bufferutil 37ms (cache miss)
+101 silly packumentCache full:https://registry.npmjs.org/bufferutil set size:undefined disposed:false
+102 silly fetch manifest utf-8-validate@>=5.0.2
+103 silly packumentCache full:https://registry.npmjs.org/utf-8-validate cache-miss
+104 http fetch GET 200 https://registry.npmjs.org/utf-8-validate 43ms (cache miss)
+105 silly packumentCache full:https://registry.npmjs.org/utf-8-validate set size:undefined disposed:false
