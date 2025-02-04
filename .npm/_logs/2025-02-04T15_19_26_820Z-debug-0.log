@@ -395,3 +395,30 @@
 394 silly fetch manifest @pinecone-database/pinecone@*
 395 silly packumentCache full:https://registry.npmjs.org/@pinecone-database%2fpinecone cache-miss
 396 http fetch GET 200 https://registry.npmjs.org/@pinecone-database%2fpinecone 231ms (cache miss)
+397 silly packumentCache full:https://registry.npmjs.org/@pinecone-database%2fpinecone set size:undefined disposed:false
+398 silly fetch manifest @planetscale/database@^1.8.0
+399 silly packumentCache full:https://registry.npmjs.org/@planetscale%2fdatabase cache-miss
+400 http fetch GET 200 https://registry.npmjs.org/@planetscale%2fdatabase 58ms (cache miss)
+401 silly packumentCache full:https://registry.npmjs.org/@planetscale%2fdatabase set size:undefined disposed:false
+402 silly fetch manifest @premai/prem-sdk@^0.3.25
+403 silly packumentCache full:https://registry.npmjs.org/@premai%2fprem-sdk cache-miss
+404 http fetch GET 200 https://registry.npmjs.org/@premai%2fprem-sdk 217ms (cache miss)
+405 silly packumentCache full:https://registry.npmjs.org/@premai%2fprem-sdk set size:undefined disposed:false
+406 silly fetch manifest @qdrant/js-client-rest@^1.8.2
+407 silly packumentCache full:https://registry.npmjs.org/@qdrant%2fjs-client-rest cache-miss
+408 http fetch GET 200 https://registry.npmjs.org/@qdrant%2fjs-client-rest 226ms (cache miss)
+409 silly packumentCache full:https://registry.npmjs.org/@qdrant%2fjs-client-rest set size:undefined disposed:false
+410 silly fetch manifest @raycast/api@^1.55.2
+411 silly packumentCache full:https://registry.npmjs.org/@raycast%2fapi cache-miss
+412 http fetch GET 200 https://registry.npmjs.org/@raycast%2fapi 269ms (cache miss)
+413 silly packumentCache full:https://registry.npmjs.org/@raycast%2fapi set size:undefined disposed:false
+414 silly fetch manifest react-devtools@5.2.0
+415 silly packumentCache full:https://registry.npmjs.org/react-devtools cache-miss
+416 http fetch GET 200 https://registry.npmjs.org/react-devtools 51ms (cache miss)
+417 silly packumentCache full:https://registry.npmjs.org/react-devtools set size:undefined disposed:false
+418 silly fetch manifest @rockset/client@^0.9.1
+419 silly packumentCache full:https://registry.npmjs.org/@rockset%2fclient cache-miss
+420 http fetch GET 200 https://registry.npmjs.org/@rockset%2fclient 403ms (cache miss)
+421 silly packumentCache full:https://registry.npmjs.org/@rockset%2fclient set size:undefined disposed:false
+422 silly fetch manifest @smithy/eventstream-codec@^2.0.5
+423 silly packumentCache full:https://registry.npmjs.org/@smithy%2feventstream-codec cache-miss
