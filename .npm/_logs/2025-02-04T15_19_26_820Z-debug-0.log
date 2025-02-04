@@ -422,3 +422,27 @@
 421 silly packumentCache full:https://registry.npmjs.org/@rockset%2fclient set size:undefined disposed:false
 422 silly fetch manifest @smithy/eventstream-codec@^2.0.5
 423 silly packumentCache full:https://registry.npmjs.org/@smithy%2feventstream-codec cache-miss
+424 http fetch GET 200 https://registry.npmjs.org/@smithy%2feventstream-codec 52ms (cache miss)
+425 silly packumentCache full:https://registry.npmjs.org/@smithy%2feventstream-codec set size:undefined disposed:false
+426 silly fetch manifest @smithy/protocol-http@^3.0.6
+427 silly packumentCache full:https://registry.npmjs.org/@smithy%2fprotocol-http cache-miss
+428 http fetch GET 200 https://registry.npmjs.org/@smithy%2fprotocol-http 50ms (cache miss)
+429 silly packumentCache full:https://registry.npmjs.org/@smithy%2fprotocol-http set size:undefined disposed:false
+430 silly fetch manifest @smithy/signature-v4@^2.0.10
+431 silly packumentCache full:https://registry.npmjs.org/@smithy%2fsignature-v4 cache-miss
+432 http fetch GET 200 https://registry.npmjs.org/@smithy%2fsignature-v4 82ms (cache miss)
+433 silly packumentCache full:https://registry.npmjs.org/@smithy%2fsignature-v4 set size:undefined disposed:false
+434 silly fetch manifest @smithy/util-utf8@^2.0.0
+435 silly packumentCache full:https://registry.npmjs.org/@smithy%2futil-utf8 cache-miss
+436 http fetch GET 200 https://registry.npmjs.org/@smithy%2futil-utf8 48ms (cache miss)
+437 silly packumentCache full:https://registry.npmjs.org/@smithy%2futil-utf8 set size:undefined disposed:false
+438 silly fetch manifest @spider-cloud/spider-client@^0.0.21
+439 silly packumentCache full:https://registry.npmjs.org/@spider-cloud%2fspider-client cache-miss
+440 http fetch GET 200 https://registry.npmjs.org/@spider-cloud%2fspider-client 563ms (cache miss)
+441 silly packumentCache full:https://registry.npmjs.org/@spider-cloud%2fspider-client set size:undefined disposed:false
+442 silly fetch manifest @supabase/supabase-js@^2.45.0
+443 silly packumentCache full:https://registry.npmjs.org/@supabase%2fsupabase-js cache-miss
+444 http fetch GET 200 https://registry.npmjs.org/@supabase%2fsupabase-js 67ms (cache miss)
+445 silly packumentCache full:https://registry.npmjs.org/@supabase%2fsupabase-js set size:undefined disposed:false
+446 silly fetch manifest @tensorflow-models/universal-sentence-encoder@*
+447 silly packumentCache full:https://registry.npmjs.org/@tensorflow-models%2funiversal-sentence-encoder cache-miss
