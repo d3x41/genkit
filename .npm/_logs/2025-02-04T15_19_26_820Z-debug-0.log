@@ -286,3 +286,47 @@
 285 silly packumentCache full:https://registry.npmjs.org/sql.js set size:undefined disposed:false
 286 silly fetch manifest sqlite3@^5.0.3
 287 silly packumentCache full:https://registry.npmjs.org/sqlite3 cache-miss
+288 http fetch GET 200 https://registry.npmjs.org/sqlite3 49ms (cache miss)
+289 silly packumentCache full:https://registry.npmjs.org/sqlite3 set size:undefined disposed:false
+290 silly fetch manifest ts-node@^10.7.0
+291 silly packumentCache full:https://registry.npmjs.org/ts-node cache-miss
+292 http fetch GET 200 https://registry.npmjs.org/ts-node 49ms (cache miss)
+293 silly packumentCache full:https://registry.npmjs.org/ts-node set size:undefined disposed:false
+294 silly fetch manifest @swc/core@>=1.2.50
+295 silly packumentCache full:https://registry.npmjs.org/@swc%2fcore cache-miss
+296 http fetch GET 200 https://registry.npmjs.org/@swc%2fcore 98ms (cache miss)
+297 silly packumentCache full:https://registry.npmjs.org/@swc%2fcore set size:undefined disposed:false
+298 silly fetch manifest @swc/helpers@*
+299 silly packumentCache full:https://registry.npmjs.org/@swc%2fhelpers cache-miss
+300 http fetch GET 200 https://registry.npmjs.org/@swc%2fhelpers 52ms (cache miss)
+301 silly packumentCache full:https://registry.npmjs.org/@swc%2fhelpers set size:undefined disposed:false
+302 silly fetch manifest @swc/wasm@>=1.2.50
+303 silly packumentCache full:https://registry.npmjs.org/@swc%2fwasm cache-miss
+304 http fetch GET 200 https://registry.npmjs.org/@swc%2fwasm 71ms (cache miss)
+305 silly packumentCache full:https://registry.npmjs.org/@swc%2fwasm set size:undefined disposed:false
+306 silly fetch manifest @types/node@*
+307 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+308 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 170ms (cache miss)
+309 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:undefined disposed:false
+310 silly fetch manifest typescript@>=2.7
+311 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+312 http fetch GET 200 https://registry.npmjs.org/typescript 200ms (cache miss)
+313 silly packumentCache full:https://registry.npmjs.org/typescript set size:undefined disposed:false
+314 silly fetch manifest typeorm-aurora-data-api-driver@^2.0.0
+315 silly packumentCache full:https://registry.npmjs.org/typeorm-aurora-data-api-driver cache-miss
+316 http fetch GET 200 https://registry.npmjs.org/typeorm-aurora-data-api-driver 41ms (cache miss)
+317 silly packumentCache full:https://registry.npmjs.org/typeorm-aurora-data-api-driver set size:undefined disposed:false
+318 silly fetch manifest @getzep/zep-js@^0.9.0
+319 silly packumentCache full:https://registry.npmjs.org/@getzep%2fzep-js cache-miss
+320 http fetch GET 200 https://registry.npmjs.org/@getzep%2fzep-js 261ms (cache miss)
+321 silly packumentCache full:https://registry.npmjs.org/@getzep%2fzep-js set size:undefined disposed:false
+322 silly fetch manifest @gomomento/sdk@^1.51.1
+323 silly packumentCache full:https://registry.npmjs.org/@gomomento%2fsdk cache-miss
+324 http fetch GET 200 https://registry.npmjs.org/@gomomento%2fsdk 284ms (cache miss)
+325 silly packumentCache full:https://registry.npmjs.org/@gomomento%2fsdk set size:undefined disposed:false
+326 silly fetch manifest @gomomento/sdk-core@^1.51.1
+327 silly packumentCache full:https://registry.npmjs.org/@gomomento%2fsdk-core cache-miss
+328 http fetch GET 200 https://registry.npmjs.org/@gomomento%2fsdk-core 451ms (cache miss)
+329 silly packumentCache full:https://registry.npmjs.org/@gomomento%2fsdk-core set size:undefined disposed:false
+330 silly fetch manifest @google-ai/generativelanguage@*
+331 silly packumentCache full:https://registry.npmjs.org/@google-ai%2fgenerativelanguage cache-miss
