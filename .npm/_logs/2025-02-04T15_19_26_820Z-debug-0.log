@@ -474,3 +474,19 @@
 473 silly packumentCache full:https://registry.npmjs.org/@vercel%2fkv set size:undefined disposed:false
 474 silly fetch manifest @vercel/postgres@*
 475 silly packumentCache full:https://registry.npmjs.org/@vercel%2fpostgres cache-miss
+476 http fetch GET 200 https://registry.npmjs.org/@vercel%2fpostgres 86ms (cache miss)
+477 silly packumentCache full:https://registry.npmjs.org/@vercel%2fpostgres set size:undefined disposed:false
+478 silly fetch manifest @writerai/writer-sdk@^0.40.2
+479 silly packumentCache full:https://registry.npmjs.org/@writerai%2fwriter-sdk cache-miss
+480 http fetch GET 200 https://registry.npmjs.org/@writerai%2fwriter-sdk 198ms (cache miss)
+481 silly packumentCache full:https://registry.npmjs.org/@writerai%2fwriter-sdk set size:undefined disposed:false
+482 silly fetch manifest @xata.io/client@^0.28.0
+483 silly packumentCache full:https://registry.npmjs.org/@xata.io%2fclient cache-miss
+484 http fetch GET 200 https://registry.npmjs.org/@xata.io%2fclient 1348ms (cache miss)
+485 silly packumentCache full:https://registry.npmjs.org/@xata.io%2fclient set size:undefined disposed:false
+486 silly fetch manifest @zilliz/milvus2-sdk-node@>=2.3.5
+487 silly packumentCache full:https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node cache-miss
+488 http fetch GET 200 https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node 188ms (cache miss)
+489 silly packumentCache full:https://registry.npmjs.org/@zilliz%2fmilvus2-sdk-node set size:undefined disposed:false
+490 silly fetch manifest apify-client@^2.7.1
+491 silly packumentCache full:https://registry.npmjs.org/apify-client cache-miss
