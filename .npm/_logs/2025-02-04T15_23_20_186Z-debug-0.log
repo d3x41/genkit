@@ -8,3 +8,377 @@
 7 verbose argv "uninstall" "@langchain/community"
 8 verbose logfile logs-max:10 dir:/home/user/.npm/_logs/2025-02-04T15_23_20_186Z-
 9 verbose logfile /home/user/.npm/_logs/2025-02-04T15_23_20_186Z-debug-0.log
+10 silly packumentCache heap:2116812800 maxSize:529203200 maxEntrySize:264601600
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly reify mark retired [ '/home/user/node_modules/@anthropic-ai/sdk' ]
+14 silly reify mark retired [ '/home/user/node_modules/@browserbasehq/sdk' ]
+15 silly reify mark retired [ '/home/user/node_modules/@browserbasehq/stagehand' ]
+16 silly reify mark retired [ '/home/user/node_modules/@cfworker/json-schema' ]
+17 silly reify mark retired [ '/home/user/node_modules/@ibm-cloud/watsonx-ai' ]
+18 silly reify mark retired [ '/home/user/node_modules/@langchain/community' ]
+19 silly reify mark retired [ '/home/user/node_modules/@langchain/core' ]
+20 silly reify mark retired [ '/home/user/node_modules/@langchain/openai' ]
+21 silly reify mark retired [ '/home/user/node_modules/@langchain/textsplitters' ]
+22 silly reify mark retired [
+22 silly reify   '/home/user/node_modules/@playwright/test',
+22 silly reify   '/home/user/node_modules/.bin/playwright'
+22 silly reify ]
+23 silly reify mark retired [ '/home/user/node_modules/@tokenizer/token' ]
+24 silly reify mark retired [ '/home/user/node_modules/@types/debug' ]
+25 silly reify mark retired [ '/home/user/node_modules/@types/ms' ]
+26 silly reify mark retired [ '/home/user/node_modules/@types/node' ]
+27 silly reify mark retired [ '/home/user/node_modules/@types/node-fetch' ]
+28 silly reify mark retired [ '/home/user/node_modules/@types/retry' ]
+29 silly reify mark retired [ '/home/user/node_modules/@types/tough-cookie' ]
+30 silly reify mark retired [ '/home/user/node_modules/@types/uuid' ]
+31 silly reify mark retired [ '/home/user/node_modules/abort-controller' ]
+32 silly reify mark retired [ '/home/user/node_modules/agentkeepalive' ]
+33 silly reify mark retired [ '/home/user/node_modules/ansi-styles' ]
+34 silly reify mark retired [ '/home/user/node_modules/argparse' ]
+35 silly reify mark retired [ '/home/user/node_modules/asynckit' ]
+36 silly reify mark retired [ '/home/user/node_modules/axios' ]
+37 silly reify mark retired [ '/home/user/node_modules/base64-js' ]
+38 silly reify mark retired [ '/home/user/node_modules/binary-extensions' ]
+39 silly reify mark retired [ '/home/user/node_modules/buffer' ]
+40 silly reify mark retired [ '/home/user/node_modules/buffer-equal-constant-time' ]
+41 silly reify mark retired [ '/home/user/node_modules/camelcase' ]
+42 silly reify mark retired [ '/home/user/node_modules/combined-stream' ]
+43 silly reify mark retired [ '/home/user/node_modules/commander' ]
+44 silly reify mark retired [ '/home/user/node_modules/debug' ]
+45 silly reify mark retired [ '/home/user/node_modules/decamelize' ]
+46 silly reify mark retired [ '/home/user/node_modules/deepmerge' ]
+47 silly reify mark retired [ '/home/user/node_modules/delayed-stream' ]
+48 silly reify mark retired [ '/home/user/node_modules/dotenv' ]
+49 silly reify mark retired [ '/home/user/node_modules/ecdsa-sig-formatter' ]
+50 silly reify mark retired [ '/home/user/node_modules/event-target-shim' ]
+51 silly reify mark retired [ '/home/user/node_modules/eventemitter3' ]
+52 silly reify mark retired [ '/home/user/node_modules/events' ]
+53 silly reify mark retired [ '/home/user/node_modules/expr-eval' ]
+54 silly reify mark retired [ '/home/user/node_modules/extend' ]
+55 silly reify mark retired [ '/home/user/node_modules/file-type' ]
+56 silly reify mark retired [ '/home/user/node_modules/flat', '/home/user/node_modules/.bin/flat' ]
+57 silly reify mark retired [ '/home/user/node_modules/follow-redirects' ]
+58 silly reify mark retired [ '/home/user/node_modules/form-data' ]
+59 silly reify mark retired [ '/home/user/node_modules/form-data-encoder' ]
+60 silly reify mark retired [ '/home/user/node_modules/formdata-node' ]
+61 silly reify mark retired [ '/home/user/node_modules/humanize-ms' ]
+62 silly reify mark retired [ '/home/user/node_modules/ibm-cloud-sdk-core' ]
+63 silly reify mark retired [ '/home/user/node_modules/ieee754' ]
+64 silly reify mark retired [ '/home/user/node_modules/isstream' ]
+65 silly reify mark retired [ '/home/user/node_modules/js-tiktoken' ]
+66 silly reify mark retired [
+66 silly reify   '/home/user/node_modules/js-yaml',
+66 silly reify   '/home/user/node_modules/.bin/js-yaml'
+66 silly reify ]
+67 silly reify mark retired [ '/home/user/node_modules/jsonpointer' ]
+68 silly reify mark retired [ '/home/user/node_modules/jsonwebtoken' ]
+69 silly reify mark retired [ '/home/user/node_modules/jwa' ]
+70 silly reify mark retired [ '/home/user/node_modules/jws' ]
+71 silly reify mark retired [ '/home/user/node_modules/langchain' ]
+72 silly reify mark retired [ '/home/user/node_modules/langsmith' ]
+73 silly reify mark retired [ '/home/user/node_modules/lodash.includes' ]
+74 silly reify mark retired [ '/home/user/node_modules/lodash.isboolean' ]
+75 silly reify mark retired [ '/home/user/node_modules/lodash.isinteger' ]
+76 silly reify mark retired [ '/home/user/node_modules/lodash.isnumber' ]
+77 silly reify mark retired [ '/home/user/node_modules/lodash.isplainobject' ]
+78 silly reify mark retired [ '/home/user/node_modules/lodash.isstring' ]
+79 silly reify mark retired [ '/home/user/node_modules/lodash.once' ]
+80 silly reify mark retired [ '/home/user/node_modules/mime-db' ]
+81 silly reify mark retired [ '/home/user/node_modules/mime-types' ]
+82 silly reify mark retired [ '/home/user/node_modules/ms' ]
+83 silly reify mark retired [
+83 silly reify   '/home/user/node_modules/mustache',
+83 silly reify   '/home/user/node_modules/.bin/mustache'
+83 silly reify ]
+84 silly reify mark retired [ '/home/user/node_modules/node-domexception' ]
+85 silly reify mark retired [ '/home/user/node_modules/node-fetch' ]
+86 silly reify mark retired [
+86 silly reify   '/home/user/node_modules/openai',
+86 silly reify   '/home/user/node_modules/.bin/openai'
+86 silly reify ]
+87 silly reify mark retired [ '/home/user/node_modules/openapi-types' ]
+88 silly reify mark retired [ '/home/user/node_modules/p-finally' ]
+89 silly reify mark retired [ '/home/user/node_modules/p-queue' ]
+90 silly reify mark retired [ '/home/user/node_modules/p-retry' ]
+91 silly reify mark retired [ '/home/user/node_modules/p-timeout' ]
+92 silly reify mark retired [ '/home/user/node_modules/peek-readable' ]
+93 silly reify mark retired [
+93 silly reify   '/home/user/node_modules/playwright',
+93 silly reify   '/home/user/node_modules/.bin/playwright'
+93 silly reify ]
+94 silly reify mark retired [
+94 silly reify   '/home/user/node_modules/playwright-core',
+94 silly reify   '/home/user/node_modules/.bin/playwright-core'
+94 silly reify ]
+95 silly reify mark retired [ '/home/user/node_modules/process' ]
+96 silly reify mark retired [ '/home/user/node_modules/proxy-from-env' ]
+97 silly reify mark retired [ '/home/user/node_modules/psl' ]
+98 silly reify mark retired [ '/home/user/node_modules/punycode' ]
+99 silly reify mark retired [ '/home/user/node_modules/querystringify' ]
+100 silly reify mark retired [ '/home/user/node_modules/readable-stream' ]
+101 silly reify mark retired [ '/home/user/node_modules/readable-web-to-node-stream' ]
+102 silly reify mark retired [ '/home/user/node_modules/requires-port' ]
+103 silly reify mark retired [ '/home/user/node_modules/retry' ]
+104 silly reify mark retired [ '/home/user/node_modules/retry-axios' ]
+105 silly reify mark retired [ '/home/user/node_modules/safe-buffer' ]
+106 silly reify mark retired [
+106 silly reify   '/home/user/node_modules/semver',
+106 silly reify   '/home/user/node_modules/.bin/semver'
+106 silly reify ]
+107 silly reify mark retired [ '/home/user/node_modules/string_decoder' ]
+108 silly reify mark retired [ '/home/user/node_modules/strtok3' ]
+109 silly reify mark retired [ '/home/user/node_modules/token-types' ]
+110 silly reify mark retired [ '/home/user/node_modules/tough-cookie' ]
+111 silly reify mark retired [ '/home/user/node_modules/tr46' ]
+112 silly reify mark retired [ '/home/user/node_modules/undici-types' ]
+113 silly reify mark retired [ '/home/user/node_modules/universalify' ]
+114 silly reify mark retired [ '/home/user/node_modules/url-parse' ]
+115 silly reify mark retired [ '/home/user/node_modules/uuid', '/home/user/node_modules/.bin/uuid' ]
+116 silly reify mark retired [ '/home/user/node_modules/web-streams-polyfill' ]
+117 silly reify mark retired [ '/home/user/node_modules/webidl-conversions' ]
+118 silly reify mark retired [ '/home/user/node_modules/whatwg-url' ]
+119 silly reify mark retired [ '/home/user/node_modules/ws' ]
+120 silly reify mark retired [ '/home/user/node_modules/yaml', '/home/user/node_modules/.bin/yaml' ]
+121 silly reify mark retired [ '/home/user/node_modules/zod' ]
+122 silly reify mark retired [ '/home/user/node_modules/zod-to-json-schema' ]
+123 silly reify moves {
+123 silly reify   '/home/user/node_modules/@anthropic-ai/sdk': '/home/user/node_modules/@anthropic-ai/.sdk-tCD4wBjD',
+123 silly reify   '/home/user/node_modules/@browserbasehq/sdk': '/home/user/node_modules/@browserbasehq/.sdk-cQkiBrY4',
+123 silly reify   '/home/user/node_modules/@browserbasehq/stagehand': '/home/user/node_modules/@browserbasehq/.stagehand-F1PXu0ra',
+123 silly reify   '/home/user/node_modules/@cfworker/json-schema': '/home/user/node_modules/@cfworker/.json-schema-LnkRkWi1',
+123 silly reify   '/home/user/node_modules/@ibm-cloud/watsonx-ai': '/home/user/node_modules/@ibm-cloud/.watsonx-ai-TKPNMcOj',
+123 silly reify   '/home/user/node_modules/@langchain/community': '/home/user/node_modules/@langchain/.community-9aRMh4hw',
+123 silly reify   '/home/user/node_modules/@langchain/core': '/home/user/node_modules/@langchain/.core-ZMtPgtp1',
+123 silly reify   '/home/user/node_modules/@langchain/openai': '/home/user/node_modules/@langchain/.openai-6MQYnsZa',
+123 silly reify   '/home/user/node_modules/@langchain/textsplitters': '/home/user/node_modules/@langchain/.textsplitters-gTJavNsE',
+123 silly reify   '/home/user/node_modules/@playwright/test': '/home/user/node_modules/@playwright/.test-VU1WMVlQ',
+123 silly reify   '/home/user/node_modules/.bin/playwright': '/home/user/node_modules/.bin/.playwright-zXhQ9MPE',
+123 silly reify   '/home/user/node_modules/@tokenizer/token': '/home/user/node_modules/@tokenizer/.token-6QgbRUi4',
+123 silly reify   '/home/user/node_modules/@types/debug': '/home/user/node_modules/@types/.debug-QRTbcGgF',
+123 silly reify   '/home/user/node_modules/@types/ms': '/home/user/node_modules/@types/.ms-5RLy77FI',
+123 silly reify   '/home/user/node_modules/@types/node': '/home/user/node_modules/@types/.node-7sJHevlu',
+123 silly reify   '/home/user/node_modules/@types/node-fetch': '/home/user/node_modules/@types/.node-fetch-lzcKyFLa',
+123 silly reify   '/home/user/node_modules/@types/retry': '/home/user/node_modules/@types/.retry-yiDNglpQ',
+123 silly reify   '/home/user/node_modules/@types/tough-cookie': '/home/user/node_modules/@types/.tough-cookie-AQMGawV1',
+123 silly reify   '/home/user/node_modules/@types/uuid': '/home/user/node_modules/@types/.uuid-pL2MAAgj',
+123 silly reify   '/home/user/node_modules/abort-controller': '/home/user/node_modules/.abort-controller-8DGoGnwb',
+123 silly reify   '/home/user/node_modules/agentkeepalive': '/home/user/node_modules/.agentkeepalive-l53s91FN',
+123 silly reify   '/home/user/node_modules/ansi-styles': '/home/user/node_modules/.ansi-styles-z0FFZEQ8',
+123 silly reify   '/home/user/node_modules/argparse': '/home/user/node_modules/.argparse-ZP5XenLn',
+123 silly reify   '/home/user/node_modules/asynckit': '/home/user/node_modules/.asynckit-VMiZozbA',
+123 silly reify   '/home/user/node_modules/axios': '/home/user/node_modules/.axios-GhIkjg33',
+123 silly reify   '/home/user/node_modules/base64-js': '/home/user/node_modules/.base64-js-IlchWLMj',
+123 silly reify   '/home/user/node_modules/binary-extensions': '/home/user/node_modules/.binary-extensions-LCi2hHmj',
+123 silly reify   '/home/user/node_modules/buffer': '/home/user/node_modules/.buffer-8nU4CUTq',
+123 silly reify   '/home/user/node_modules/buffer-equal-constant-time': '/home/user/node_modules/.buffer-equal-constant-time-iV3OgqbP',
+123 silly reify   '/home/user/node_modules/camelcase': '/home/user/node_modules/.camelcase-WhDcidbv',
+123 silly reify   '/home/user/node_modules/combined-stream': '/home/user/node_modules/.combined-stream-TdQgB55M',
+123 silly reify   '/home/user/node_modules/commander': '/home/user/node_modules/.commander-wCMZmM3W',
+123 silly reify   '/home/user/node_modules/debug': '/home/user/node_modules/.debug-iuZMsIdk',
+123 silly reify   '/home/user/node_modules/decamelize': '/home/user/node_modules/.decamelize-fOmXVgaW',
+123 silly reify   '/home/user/node_modules/deepmerge': '/home/user/node_modules/.deepmerge-tm6F4V7d',
+123 silly reify   '/home/user/node_modules/delayed-stream': '/home/user/node_modules/.delayed-stream-ym5WIUlX',
+123 silly reify   '/home/user/node_modules/dotenv': '/home/user/node_modules/.dotenv-3jd1dQgC',
+123 silly reify   '/home/user/node_modules/ecdsa-sig-formatter': '/home/user/node_modules/.ecdsa-sig-formatter-apDlPQ0T',
+123 silly reify   '/home/user/node_modules/event-target-shim': '/home/user/node_modules/.event-target-shim-1u0MaY9i',
+123 silly reify   '/home/user/node_modules/eventemitter3': '/home/user/node_modules/.eventemitter3-CXhPuV3g',
+123 silly reify   '/home/user/node_modules/events': '/home/user/node_modules/.events-pg2Hfiby',
+123 silly reify   '/home/user/node_modules/expr-eval': '/home/user/node_modules/.expr-eval-efGslRIo',
+123 silly reify   '/home/user/node_modules/extend': '/home/user/node_modules/.extend-N5Hy1pI4',
+123 silly reify   '/home/user/node_modules/file-type': '/home/user/node_modules/.file-type-4njBomTU',
+123 silly reify   '/home/user/node_modules/flat': '/home/user/node_modules/.flat-PNT7ZVFj',
+123 silly reify   '/home/user/node_modules/.bin/flat': '/home/user/node_modules/.bin/.flat-GVnZSs7K',
+123 silly reify   '/home/user/node_modules/follow-redirects': '/home/user/node_modules/.follow-redirects-naTfJLDx',
+123 silly reify   '/home/user/node_modules/form-data': '/home/user/node_modules/.form-data-kzP4YFq1',
+123 silly reify   '/home/user/node_modules/form-data-encoder': '/home/user/node_modules/.form-data-encoder-lWntLvDk',
+123 silly reify   '/home/user/node_modules/formdata-node': '/home/user/node_modules/.formdata-node-dF7l7FHZ',
+123 silly reify   '/home/user/node_modules/humanize-ms': '/home/user/node_modules/.humanize-ms-8pIHxh3f',
+123 silly reify   '/home/user/node_modules/ibm-cloud-sdk-core': '/home/user/node_modules/.ibm-cloud-sdk-core-ldkn1aMK',
+123 silly reify   '/home/user/node_modules/ieee754': '/home/user/node_modules/.ieee754-addBhecW',
+123 silly reify   '/home/user/node_modules/isstream': '/home/user/node_modules/.isstream-2yvNfrHq',
+123 silly reify   '/home/user/node_modules/js-tiktoken': '/home/user/node_modules/.js-tiktoken-6MdK3qTq',
+123 silly reify   '/home/user/node_modules/js-yaml': '/home/user/node_modules/.js-yaml-BtZG2w9E',
+123 silly reify   '/home/user/node_modules/.bin/js-yaml': '/home/user/node_modules/.bin/.js-yaml-qgPh6wcH',
+123 silly reify   '/home/user/node_modules/jsonpointer': '/home/user/node_modules/.jsonpointer-kL2Eo7YY',
+123 silly reify   '/home/user/node_modules/jsonwebtoken': '/home/user/node_modules/.jsonwebtoken-swphyW5i',
+123 silly reify   '/home/user/node_modules/jwa': '/home/user/node_modules/.jwa-Zo29vj8F',
+123 silly reify   '/home/user/node_modules/jws': '/home/user/node_modules/.jws-x9SF7JAi',
+123 silly reify   '/home/user/node_modules/langchain': '/home/user/node_modules/.langchain-cax5hXot',
+123 silly reify   '/home/user/node_modules/langsmith': '/home/user/node_modules/.langsmith-Bnd8YICJ',
+123 silly reify   '/home/user/node_modules/lodash.includes': '/home/user/node_modules/.lodash.includes-w0B3Uq62',
+123 silly reify   '/home/user/node_modules/lodash.isboolean': '/home/user/node_modules/.lodash.isboolean-JuVNnnVO',
+123 silly reify   '/home/user/node_modules/lodash.isinteger': '/home/user/node_modules/.lodash.isinteger-LCQv2UwE',
+123 silly reify   '/home/user/node_modules/lodash.isnumber': '/home/user/node_modules/.lodash.isnumber-AXz31a5L',
+123 silly reify   '/home/user/node_modules/lodash.isplainobject': '/home/user/node_modules/.lodash.isplainobject-C43G14CS',
+123 silly reify   '/home/user/node_modules/lodash.isstring': '/home/user/node_modules/.lodash.isstring-SIpMIp61',
+123 silly reify   '/home/user/node_modules/lodash.once': '/home/user/node_modules/.lodash.once-cLmgZOuP',
+123 silly reify   '/home/user/node_modules/mime-db': '/home/user/node_modules/.mime-db-oxj62hKC',
+123 silly reify   '/home/user/node_modules/mime-types': '/home/user/node_modules/.mime-types-s5IZD5lZ',
+123 silly reify   '/home/user/node_modules/ms': '/home/user/node_modules/.ms-8wtDxIyL',
+123 silly reify   '/home/user/node_modules/mustache': '/home/user/node_modules/.mustache-FtdIyJYu',
+123 silly reify   '/home/user/node_modules/.bin/mustache': '/home/user/node_modules/.bin/.mustache-dabIidsd',
+123 silly reify   '/home/user/node_modules/node-domexception': '/home/user/node_modules/.node-domexception-1EYamkWu',
+123 silly reify   '/home/user/node_modules/node-fetch': '/home/user/node_modules/.node-fetch-X8SxJ8Wr',
+123 silly reify   '/home/user/node_modules/openai': '/home/user/node_modules/.openai-5wnWI8Re',
+123 silly reify   '/home/user/node_modules/.bin/openai': '/home/user/node_modules/.bin/.openai-4XtBYNmD',
+123 silly reify   '/home/user/node_modules/openapi-types': '/home/user/node_modules/.openapi-types-Iky3wiSn',
+123 silly reify   '/home/user/node_modules/p-finally': '/home/user/node_modules/.p-finally-KYpa603X',
+123 silly reify   '/home/user/node_modules/p-queue': '/home/user/node_modules/.p-queue-OLMrk4RC',
+123 silly reify   '/home/user/node_modules/p-retry': '/home/user/node_modules/.p-retry-0fWq3Whd',
+123 silly reify   '/home/user/node_modules/p-timeout': '/home/user/node_modules/.p-timeout-HWCk8gFh',
+123 silly reify   '/home/user/node_modules/peek-readable': '/home/user/node_modules/.peek-readable-T19FaN7B',
+123 silly reify   '/home/user/node_modules/playwright': '/home/user/node_modules/.playwright-JlB3N12u',
+123 silly reify   '/home/user/node_modules/playwright-core': '/home/user/node_modules/.playwright-core-0cvhwAtA',
+123 silly reify   '/home/user/node_modules/.bin/playwright-core': '/home/user/node_modules/.bin/.playwright-core-dMyzAtrB',
+123 silly reify   '/home/user/node_modules/process': '/home/user/node_modules/.process-X9KWVKyB',
+123 silly reify   '/home/user/node_modules/proxy-from-env': '/home/user/node_modules/.proxy-from-env-3GT6oXHT',
+123 silly reify   '/home/user/node_modules/psl': '/home/user/node_modules/.psl-m9J2sRfC',
+123 silly reify   '/home/user/node_modules/punycode': '/home/user/node_modules/.punycode-0YZjDyoO',
+123 silly reify   '/home/user/node_modules/querystringify': '/home/user/node_modules/.querystringify-z3sAHAhz',
+123 silly reify   '/home/user/node_modules/readable-stream': '/home/user/node_modules/.readable-stream-04aiuOYL',
+123 silly reify   '/home/user/node_modules/readable-web-to-node-stream': '/home/user/node_modules/.readable-web-to-node-stream-5pWHwa9p',
+123 silly reify   '/home/user/node_modules/requires-port': '/home/user/node_modules/.requires-port-6HLHStnY',
+123 silly reify   '/home/user/node_modules/retry': '/home/user/node_modules/.retry-o4msdxYB',
+123 silly reify   '/home/user/node_modules/retry-axios': '/home/user/node_modules/.retry-axios-p04b8JS4',
+123 silly reify   '/home/user/node_modules/safe-buffer': '/home/user/node_modules/.safe-buffer-16MccY1v',
+123 silly reify   '/home/user/node_modules/semver': '/home/user/node_modules/.semver-0JdjMF4U',
+123 silly reify   '/home/user/node_modules/.bin/semver': '/home/user/node_modules/.bin/.semver-ysYNu9O2',
+123 silly reify   '/home/user/node_modules/string_decoder': '/home/user/node_modules/.string_decoder-DBqbawl8',
+123 silly reify   '/home/user/node_modules/strtok3': '/home/user/node_modules/.strtok3-BiBadD7g',
+123 silly reify   '/home/user/node_modules/token-types': '/home/user/node_modules/.token-types-R3HeMERL',
+123 silly reify   '/home/user/node_modules/tough-cookie': '/home/user/node_modules/.tough-cookie-TMfNDXfZ',
+123 silly reify   '/home/user/node_modules/tr46': '/home/user/node_modules/.tr46-IjIKmS7i',
+123 silly reify   '/home/user/node_modules/undici-types': '/home/user/node_modules/.undici-types-kxc5OPcz',
+123 silly reify   '/home/user/node_modules/universalify': '/home/user/node_modules/.universalify-hteyMc9V',
+123 silly reify   '/home/user/node_modules/url-parse': '/home/user/node_modules/.url-parse-LqLzd35i',
+123 silly reify   '/home/user/node_modules/uuid': '/home/user/node_modules/.uuid-ua3RFzsb',
+123 silly reify   '/home/user/node_modules/.bin/uuid': '/home/user/node_modules/.bin/.uuid-yPl80bBW',
+123 silly reify   '/home/user/node_modules/web-streams-polyfill': '/home/user/node_modules/.web-streams-polyfill-CsCheOga',
+123 silly reify   '/home/user/node_modules/webidl-conversions': '/home/user/node_modules/.webidl-conversions-Uorjol2I',
+123 silly reify   '/home/user/node_modules/whatwg-url': '/home/user/node_modules/.whatwg-url-oJFGC6nq',
+123 silly reify   '/home/user/node_modules/ws': '/home/user/node_modules/.ws-UMzfw7V3',
+123 silly reify   '/home/user/node_modules/yaml': '/home/user/node_modules/.yaml-IOCV4vvy',
+123 silly reify   '/home/user/node_modules/.bin/yaml': '/home/user/node_modules/.bin/.yaml-MtgANj6t',
+123 silly reify   '/home/user/node_modules/zod': '/home/user/node_modules/.zod-WyTB1pgp',
+123 silly reify   '/home/user/node_modules/zod-to-json-schema': '/home/user/node_modules/.zod-to-json-schema-J9g3YIfg'
+123 silly reify }
+124 silly audit report null
+125 silly REMOVE node_modules/zod-to-json-schema
+126 silly REMOVE node_modules/zod
+127 silly REMOVE node_modules/yaml
+128 silly REMOVE node_modules/ws
+129 silly REMOVE node_modules/whatwg-url
+130 silly REMOVE node_modules/webidl-conversions
+131 silly REMOVE node_modules/web-streams-polyfill
+132 silly REMOVE node_modules/uuid
+133 silly REMOVE node_modules/url-parse
+134 silly REMOVE node_modules/universalify
+135 silly REMOVE node_modules/undici-types
+136 silly REMOVE node_modules/tr46
+137 silly REMOVE node_modules/tough-cookie
+138 silly REMOVE node_modules/token-types
+139 silly REMOVE node_modules/strtok3
+140 silly REMOVE node_modules/string_decoder
+141 silly REMOVE node_modules/semver
+142 silly REMOVE node_modules/safe-buffer
+143 silly REMOVE node_modules/retry-axios
+144 silly REMOVE node_modules/retry
+145 silly REMOVE node_modules/requires-port
+146 silly REMOVE node_modules/readable-web-to-node-stream
+147 silly REMOVE node_modules/readable-stream
+148 silly REMOVE node_modules/querystringify
+149 silly REMOVE node_modules/punycode
+150 silly REMOVE node_modules/psl
+151 silly REMOVE node_modules/proxy-from-env
+152 silly REMOVE node_modules/process
+153 silly REMOVE node_modules/playwright-core
+154 silly REMOVE node_modules/playwright
+155 silly REMOVE node_modules/peek-readable
+156 silly REMOVE node_modules/p-timeout
+157 silly REMOVE node_modules/p-retry
+158 silly REMOVE node_modules/p-queue
+159 silly REMOVE node_modules/p-finally
+160 silly REMOVE node_modules/openapi-types
+161 silly REMOVE node_modules/openai
+162 silly REMOVE node_modules/node-fetch
+163 silly REMOVE node_modules/node-domexception
+164 silly REMOVE node_modules/mustache
+165 silly REMOVE node_modules/ms
+166 silly REMOVE node_modules/mime-types
+167 silly REMOVE node_modules/mime-db
+168 silly REMOVE node_modules/lodash.once
+169 silly REMOVE node_modules/lodash.isstring
+170 silly REMOVE node_modules/lodash.isplainobject
+171 silly REMOVE node_modules/lodash.isnumber
+172 silly REMOVE node_modules/lodash.isinteger
+173 silly REMOVE node_modules/lodash.isboolean
+174 silly REMOVE node_modules/lodash.includes
+175 silly REMOVE node_modules/langsmith
+176 silly REMOVE node_modules/langchain
+177 silly REMOVE node_modules/jws
+178 silly REMOVE node_modules/jwa
+179 silly REMOVE node_modules/jsonwebtoken
+180 silly REMOVE node_modules/jsonpointer
+181 silly REMOVE node_modules/js-yaml
+182 silly REMOVE node_modules/js-tiktoken
+183 silly REMOVE node_modules/isstream
+184 silly REMOVE node_modules/ieee754
+185 silly REMOVE node_modules/ibm-cloud-sdk-core
+186 silly REMOVE node_modules/ibm-cloud-sdk-core/node_modules/form-data
+187 silly REMOVE node_modules/ibm-cloud-sdk-core/node_modules/@types/node
+188 silly REMOVE node_modules/humanize-ms
+189 silly REMOVE node_modules/formdata-node
+190 silly REMOVE node_modules/form-data-encoder
+191 silly REMOVE node_modules/form-data
+192 silly REMOVE node_modules/follow-redirects
+193 silly REMOVE node_modules/flat
+194 silly REMOVE node_modules/file-type
+195 silly REMOVE node_modules/extend
+196 silly REMOVE node_modules/expr-eval
+197 silly REMOVE node_modules/events
+198 silly REMOVE node_modules/eventemitter3
+199 silly REMOVE node_modules/event-target-shim
+200 silly REMOVE node_modules/ecdsa-sig-formatter
+201 silly REMOVE node_modules/dotenv
+202 silly REMOVE node_modules/delayed-stream
+203 silly REMOVE node_modules/deepmerge
+204 silly REMOVE node_modules/decamelize
+205 silly REMOVE node_modules/debug
+206 silly REMOVE node_modules/commander
+207 silly REMOVE node_modules/combined-stream
+208 silly REMOVE node_modules/camelcase
+209 silly REMOVE node_modules/buffer-equal-constant-time
+210 silly REMOVE node_modules/buffer
+211 silly REMOVE node_modules/binary-extensions
+212 silly REMOVE node_modules/base64-js
+213 silly REMOVE node_modules/axios
+214 silly REMOVE node_modules/asynckit
+215 silly REMOVE node_modules/argparse
+216 silly REMOVE node_modules/ansi-styles
+217 silly REMOVE node_modules/agentkeepalive
+218 silly REMOVE node_modules/abort-controller
+219 silly REMOVE node_modules/@types/uuid
+220 silly REMOVE node_modules/@types/tough-cookie
+221 silly REMOVE node_modules/@types/retry
+222 silly REMOVE node_modules/@types/node-fetch
+223 silly REMOVE node_modules/@types/node
+224 silly REMOVE node_modules/@types/ms
+225 silly REMOVE node_modules/@types/debug
+226 silly REMOVE node_modules/@tokenizer/token
+227 silly REMOVE node_modules/@playwright/test
+228 silly REMOVE node_modules/@langchain/textsplitters
+229 silly REMOVE node_modules/@langchain/openai
+230 silly REMOVE node_modules/@langchain/core
+231 silly REMOVE node_modules/@langchain/community
+232 silly REMOVE node_modules/@ibm-cloud/watsonx-ai
+233 silly REMOVE node_modules/@cfworker/json-schema
+234 silly REMOVE node_modules/@browserbasehq/stagehand
+235 silly REMOVE node_modules/@browserbasehq/sdk
+236 silly REMOVE node_modules/@anthropic-ai/sdk
+237 verbose cwd /home/user
+238 verbose os Linux 6.1.102
+239 verbose node v20.18.0
+240 verbose npm  v10.8.2
+241 verbose exit 0
+242 info ok
