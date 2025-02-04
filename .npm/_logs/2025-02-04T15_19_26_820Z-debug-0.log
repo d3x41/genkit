@@ -374,3 +374,24 @@
 373 silly packumentCache full:https://registry.npmjs.org/@mendable%2ffirecrawl-js set size:undefined disposed:false
 374 silly fetch manifest @mlc-ai/web-llm@*
 375 silly packumentCache full:https://registry.npmjs.org/@mlc-ai%2fweb-llm cache-miss
+376 http fetch GET 200 https://registry.npmjs.org/@mlc-ai%2fweb-llm 484ms (cache miss)
+377 silly packumentCache full:https://registry.npmjs.org/@mlc-ai%2fweb-llm set size:undefined disposed:false
+378 silly fetch manifest @mozilla/readability@*
+379 silly packumentCache full:https://registry.npmjs.org/@mozilla%2freadability cache-miss
+380 http fetch GET 200 https://registry.npmjs.org/@mozilla%2freadability 150ms (cache miss)
+381 silly packumentCache full:https://registry.npmjs.org/@mozilla%2freadability set size:undefined disposed:false
+382 silly fetch manifest @neondatabase/serverless@*
+383 silly packumentCache full:https://registry.npmjs.org/@neondatabase%2fserverless cache-miss
+384 http fetch GET 200 https://registry.npmjs.org/@neondatabase%2fserverless 57ms (cache miss)
+385 silly packumentCache full:https://registry.npmjs.org/@neondatabase%2fserverless set size:undefined disposed:false
+386 silly fetch manifest @notionhq/client@^2.2.10
+387 silly packumentCache full:https://registry.npmjs.org/@notionhq%2fclient cache-miss
+388 http fetch GET 200 https://registry.npmjs.org/@notionhq%2fclient 115ms (cache miss)
+389 silly packumentCache full:https://registry.npmjs.org/@notionhq%2fclient set size:undefined disposed:false
+390 silly fetch manifest @opensearch-project/opensearch@*
+391 silly packumentCache full:https://registry.npmjs.org/@opensearch-project%2fopensearch cache-miss
+392 http fetch GET 200 https://registry.npmjs.org/@opensearch-project%2fopensearch 346ms (cache miss)
+393 silly packumentCache full:https://registry.npmjs.org/@opensearch-project%2fopensearch set size:undefined disposed:false
+394 silly fetch manifest @pinecone-database/pinecone@*
+395 silly packumentCache full:https://registry.npmjs.org/@pinecone-database%2fpinecone cache-miss
+396 http fetch GET 200 https://registry.npmjs.org/@pinecone-database%2fpinecone 231ms (cache miss)
