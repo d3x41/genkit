@@ -18,7 +18,7 @@
     "genkit": "workspace:*",
     "@genkit-ai/googleai": "workspace:*",
     "@genkit-ai/vertexai": "workspace:*",
-    "@google/generative-ai": "^0.15.0",
+    "@google/generative-ai": "^0.21.0",
     "colorette": "^2.0.20",
     "genkitx-ollama": "workspace:*",
     "genkitx-openai": "^0.10.1"
